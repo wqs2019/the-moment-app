@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "The Moment App",
+    "slug": "the-moment-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "scheme": "themomentapp",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.example.themomentapp"
+    },
+    "android": {
+      "edgeToEdgeEnabled": true,
+      "package": "com.example.themomentapp"
+    },
+    "extra": {
+      "eas": {
+        "projectId": ""
+      }
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
