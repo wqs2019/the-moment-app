@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "The Moment App",
+    "name": "别刷了",
     "slug": "the-moment-app",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -10,7 +10,8 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.example.themomentapp"
+      "bundleIdentifier": "com.example.themomentapp",
+      "appleTeamId": "592UG636F5"
     },
     "android": {
       "edgeToEdgeEnabled": true,

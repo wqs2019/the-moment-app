@@ -4,6 +4,10 @@ import 'react-native-get-random-values';
 
 import { registerRootComponent } from 'expo';
 
-import App from './App';
+if (typeof globalThis.process === 'object' && typeof globalThis.process.getBuiltinModule !== 'function') {
+  globalThis.process.getBuiltinModule = () => undefined;
+}
+
+const { default: App } = require('./App');
 
 registerRootComponent(App);
