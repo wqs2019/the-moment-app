@@ -1,0 +1,9 @@
+{
+  "name": "moment_record",
+  "version": "1.0.0",
+  "description": "Manage user energy records",
+  "main": "index.js",
+  "dependencies": {
+    "@cloudbase/node-sdk": "latest"
+  }
+}

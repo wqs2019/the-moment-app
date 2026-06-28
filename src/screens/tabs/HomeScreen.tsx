@@ -20,6 +20,7 @@ import { BlurView } from 'expo-blur';
 
 import { useAppTheme } from '../../hooks/useAppTheme';
 import { useAppStore } from '../../store/appStore';
+import { useRecordStore } from '../../store/recordStore';
 import { RecommendationEngine } from '../../services/recommendation';
 import { Task, TaskCategory, TaskScene } from '../../types/task';
 
@@ -66,6 +67,7 @@ const SCENE_FILTERS: { label: string; value: TaskScene | '全部' }[] = [
 export const HomeScreen = () => {
   const { colors, isDark } = useAppTheme();
   const preference = useAppStore((state) => state.preference);
+  const addScrolledScreen = useRecordStore((state) => state.addScrolledScreen);
   const navigation = useNavigation<NativeStackNavigationProp<RootStackParamList>>();
   
   const [tasks, setTasks] = useState<Task[]>([]);
@@ -305,7 +307,17 @@ export const HomeScreen = () => {
         </View>
 
         <Animated.View entering={FadeIn.delay(600)} style={styles.giveUpContainer}>
-          <TouchableOpacity style={styles.giveUpButton} activeOpacity={0.6}>
+          <TouchableOpacity 
+            style={styles.giveUpButton} 
+            activeOpacity={0.6}
+            onPress={() => {
+              addScrolledScreen({
+                durationMinutes: 30,
+                energyLost: 10,
+              });
+              // 这里可以加个 Toast 提示，或者直接让用户去刷手机
+            }}
+          >
             <Text style={[styles.giveUpText, { color: colors.textSecondary }]}>
               算了，我还是去刷手机
             </Text>

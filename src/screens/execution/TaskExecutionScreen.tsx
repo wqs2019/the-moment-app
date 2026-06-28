@@ -18,6 +18,7 @@ import { Audio } from 'expo-av';
 import { RootStackParamList } from '../../navigation/RootNavigator';
 import { useAppTheme } from '../../hooks/useAppTheme';
 import { useAppStore } from '../../store/appStore';
+import { useRecordStore } from '../../store/recordStore';
 import { useToast } from '../../components/common/Toast';
 
 type Props = NativeStackScreenProps<RootStackParamList, 'TaskExecution'>;
@@ -35,6 +36,8 @@ export const TaskExecutionScreen: React.FC<Props> = ({ route, navigation }) => {
   const { task } = route.params;
   const { colors } = useAppTheme();
   const toast = useToast();
+  const addCompletedTask = useRecordStore((state) => state.addCompletedTask);
+  const addScrolledScreen = useRecordStore((state) => state.addScrolledScreen);
   
   const [timeLeft, setTimeLeft] = useState(task.durationMinutes * 60);
   const [isActive, setIsActive] = useState(true);
@@ -67,9 +70,8 @@ export const TaskExecutionScreen: React.FC<Props> = ({ route, navigation }) => {
       interval = setInterval(() => {
         setTimeLeft((prev) => prev - 1);
       }, 1000);
-    } else if (isActive && timeLeft === 0) {
-      handleComplete();
     }
+    // 倒计时结束时不自动退出，让用户手动点击完成，增强仪式感
     return () => clearInterval(interval);
   }, [isActive, timeLeft]);
 
@@ -135,12 +137,29 @@ export const TaskExecutionScreen: React.FC<Props> = ({ route, navigation }) => {
 
   const handleComplete = () => {
     setIsActive(false);
+    
+    // 记录完成任务的能量收益
+    addCompletedTask({
+      taskId: task.id,
+      taskTitle: task.title,
+      durationMinutes: task.durationMinutes,
+      energyEarned: task.energyValue,
+    });
+
     toast.success(`太棒了！获得 ${task.energyValue} 能量`);
     navigation.goBack();
   };
 
   const handleGiveUp = () => {
     setIsActive(false);
+    
+    // 记录放弃任务（去刷手机）的能量损失
+    // 假设放弃一次扣除 5 点能量，并记录为刷了 15 分钟手机
+    addScrolledScreen({
+      durationMinutes: 15,
+      energyLost: 5,
+    });
+
     toast.info('没关系，允许自己停下来休息一会儿');
     navigation.goBack();
   };
@@ -148,8 +167,13 @@ export const TaskExecutionScreen: React.FC<Props> = ({ route, navigation }) => {
   return (
     <SafeAreaView style={[styles.container, { backgroundColor: '#121212' }]}>
       <View style={styles.header}>
-        <TouchableOpacity onPress={handleGiveUp} style={styles.closeButton}>
-          <Feather name="x" size={28} color="#FFF" opacity={0.5} />
+        <TouchableOpacity 
+          onPress={handleGiveUp} 
+          style={styles.closeButton}
+          hitSlop={{ top: 20, bottom: 20, left: 20, right: 20 }}
+          activeOpacity={0.6}
+        >
+          <Feather name="x" size={32} color="#FFF" opacity={0.8} />
         </TouchableOpacity>
       </View>
 
@@ -192,10 +216,20 @@ export const TaskExecutionScreen: React.FC<Props> = ({ route, navigation }) => {
         </View>
 
         <TouchableOpacity 
-          style={[styles.completeButton, { backgroundColor: colors.primary }]}
+          style={[
+            styles.completeButton, 
+            { backgroundColor: timeLeft === 0 ? colors.primary : 'rgba(255,255,255,0.1)' }
+          ]}
           onPress={handleComplete}
+          disabled={timeLeft > 0}
+          activeOpacity={0.8}
         >
-          <Text style={styles.completeButtonText}>完成了</Text>
+          <Text style={[
+            styles.completeButtonText,
+            { color: timeLeft === 0 ? '#FFF' : 'rgba(255,255,255,0.3)' }
+          ]}>
+            {timeLeft === 0 ? '完成了' : '倒计时结束后可完成'}
+          </Text>
         </TouchableOpacity>
       </View>
     </SafeAreaView>
@@ -210,9 +244,12 @@ const styles = StyleSheet.create({
     paddingHorizontal: 24,
     paddingTop: 20,
     alignItems: 'flex-end',
+    zIndex: 10, // 确保按钮在最上层
   },
   closeButton: {
     padding: 8,
+    backgroundColor: 'rgba(255,255,255,0.1)', // 增加一点背景色让点击区域更明显
+    borderRadius: 24,
   },
   content: {
     flex: 1,
