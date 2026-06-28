@@ -9,14 +9,17 @@ type AppState = {
   theme: ThemeMode;
   initialized: boolean;
   serviceReady: boolean;
+  isLoggedIn: boolean;
   initializeApp: () => Promise<void>;
   setTheme: (theme: ThemeMode) => Promise<void>;
+  setLoggedIn: (status: boolean) => void;
 };
 
 export const useAppStore = create<AppState>((set) => ({
   theme: 'system',
   initialized: false,
   serviceReady: false,
+  isLoggedIn: false,
   initializeApp: async () => {
     const savedTheme = await StorageUtil.get<ThemeMode>(STORAGE_KEYS.theme);
     const serviceReady = await CloudService.bootstrap();
@@ -31,4 +34,5 @@ export const useAppStore = create<AppState>((set) => ({
     await StorageUtil.set(STORAGE_KEYS.theme, theme);
     set({ theme });
   },
+  setLoggedIn: (status) => set({ isLoggedIn: status }),
 }));
