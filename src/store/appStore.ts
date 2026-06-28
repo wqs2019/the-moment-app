@@ -4,7 +4,7 @@ import { STORAGE_KEYS } from '../config/constant';
 import { ThemeMode } from '../config/theme';
 import CloudService from '../services/tcb';
 import StorageUtil from '../utils/storage';
-import { User } from '../types/user';
+import { User, UserPreference } from '../types/user';
 import authService from '../services/authService';
 
 type AppState = {
@@ -14,10 +14,12 @@ type AppState = {
   isLoggedIn: boolean;
   user: User | null;
   sessionToken: string | null;
+  preference: UserPreference | null;
   initializeApp: () => Promise<void>;
   setTheme: (theme: ThemeMode) => Promise<void>;
   setLoggedIn: (status: boolean, user?: User | null, token?: string | null) => Promise<void>;
   logout: () => Promise<void>;
+  completeOnboarding: (preference: UserPreference) => Promise<void>;
 };
 
 export const useAppStore = create<AppState>((set, get) => ({
@@ -27,8 +29,10 @@ export const useAppStore = create<AppState>((set, get) => ({
   isLoggedIn: false,
   user: null,
   sessionToken: null,
+  preference: null,
   initializeApp: async () => {
     const savedTheme = await StorageUtil.get<ThemeMode>(STORAGE_KEYS.theme);
+    const savedPreference = await StorageUtil.get<UserPreference>('the_moment_preference');
     const serviceReady = await CloudService.bootstrap();
     
     let isLoggedIn = false;
@@ -57,6 +61,7 @@ export const useAppStore = create<AppState>((set, get) => ({
       isLoggedIn,
       user,
       sessionToken,
+      preference: savedPreference,
     });
   },
   setTheme: async (theme) => {
@@ -74,5 +79,9 @@ export const useAppStore = create<AppState>((set, get) => ({
   logout: async () => {
     await StorageUtil.remove('the_moment_session_token');
     set({ isLoggedIn: false, user: null, sessionToken: null });
+  },
+  completeOnboarding: async (preference) => {
+    await StorageUtil.set('the_moment_preference', preference);
+    set({ preference });
   },
 }));
