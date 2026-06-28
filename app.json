@@ -10,12 +10,13 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.example.themomentapp",
-      "appleTeamId": "592UG636F5"
+      "bundleIdentifier": "com.the.moments.app",
+      "appleTeamId": "592UG636F5",
+      "usesAppleSignIn": true
     },
     "android": {
       "edgeToEdgeEnabled": true,
-      "package": "com.example.themomentapp"
+      "package": "com.the.moments.app"
     },
     "extra": {
       "eas": {
@@ -23,7 +24,8 @@
       }
     },
     "plugins": [
-      "expo-font"
+      "expo-font",
+      "expo-apple-authentication"
     ]
   }
 }

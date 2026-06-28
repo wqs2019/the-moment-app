@@ -12,7 +12,7 @@ const initTCB = () => {
     return appInstance;
   }
 
-  if (!TCB_CONFIG.env || TCB_CONFIG.env === 'YOUR_ENV_ID') {
+  if (!TCB_CONFIG.env) {
     return null;
   }
 
@@ -66,7 +66,7 @@ const resolveResult = <T,>(result: any): { code: number; message: string; data: 
 
 export const CloudService = {
   isConfigured() {
-    return !!TCB_CONFIG.env && TCB_CONFIG.env !== 'YOUR_ENV_ID';
+    return !!TCB_CONFIG.env;
   },
 
   async bootstrap(): Promise<boolean> {

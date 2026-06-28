@@ -1,0 +1,9 @@
+{
+  "name": "moment_user",
+  "version": "1.0.0",
+  "description": "User management and authentication for the-moment-app",
+  "main": "index.js",
+  "dependencies": {
+    "@cloudbase/node-sdk": "latest"
+  }
+}

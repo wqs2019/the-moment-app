@@ -3,9 +3,9 @@ export const STORAGE_KEYS = {
 } as const;
 
 export const TCB_CONFIG = {
-  env: 'YOUR_ENV_ID',
+  env: 'maoqiu-diary-app-2fpzvwp2e01dbaf',
   region: 'ap-shanghai',
-} as const;
+};
 
 export const COLORS = {
   primary: '#5B6CFF',

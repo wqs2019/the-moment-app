@@ -4,6 +4,8 @@
   <dict>
     <key>CADisableMinimumFrameDurationOnPhone</key>
     <true/>
+    <key>CFBundleAllowMixedLocalizations</key>
+    <true/>
     <key>CFBundleDevelopmentRegion</key>
     <string>$(DEVELOPMENT_LANGUAGE)</string>
     <key>CFBundleDisplayName</key>
@@ -28,7 +30,13 @@
         <key>CFBundleURLSchemes</key>
         <array>
           <string>themomentapp</string>
-          <string>com.example.themomentapp</string>
+          <string>com.the.moments.app</string>
+        </array>
+      </dict>
+      <dict>
+        <key>CFBundleURLSchemes</key>
+        <array>
+          <string>exp+the-moment-app</string>
         </array>
       </dict>
     </array>

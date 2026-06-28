@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { View, Text, StyleSheet, Dimensions, Platform, TouchableOpacity } from 'react-native';
+import { View, Text, StyleSheet, Dimensions, Platform, TouchableOpacity, ActivityIndicator } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import * as AppleAuthentication from 'expo-apple-authentication';
 import { BlurView } from 'expo-blur';
@@ -7,6 +7,8 @@ import Animated, { FadeInDown, FadeIn } from 'react-native-reanimated';
 import { Feather } from '@expo/vector-icons';
 import { useAppTheme } from '../../hooks/useAppTheme';
 import { useAppStore } from '../../store/appStore';
+import authService from '../../services/authService';
+import { useToast } from '../../components/common/Toast';
 
 const { width, height } = Dimensions.get('window');
 
@@ -14,34 +16,54 @@ export const LoginScreen = () => {
   const { colors, isDark } = useAppTheme();
   const setLoggedIn = useAppStore((state) => state.setLoggedIn);
   const [isAppleAuthAvailable, setIsAppleAuthAvailable] = useState(false);
+  const [isLoading, setIsLoading] = useState(false);
+  const toast = useToast();
 
   useEffect(() => {
     const checkAvailability = async () => {
-      const available = await AppleAuthentication.isAvailableAsync();
-      setIsAppleAuthAvailable(available);
+      // Force true for testing the real flow
+      // const available = await AppleAuthentication.isAvailableAsync();
+      setIsAppleAuthAvailable(true);
     };
     checkAvailability();
   }, []);
 
   const handleAppleLogin = async () => {
     try {
+      setIsLoading(true);
       const credential = await AppleAuthentication.signInAsync({
         requestedScopes: [
           AppleAuthentication.AppleAuthenticationScope.FULL_NAME,
           AppleAuthentication.AppleAuthenticationScope.EMAIL,
         ],
       });
-      console.log(credential);
-      setLoggedIn(true);
+      
+      const fullName = credential.fullName 
+        ? `${credential.fullName.givenName || ''} ${credential.fullName.familyName || ''}`.trim()
+        : null;
+
+      const session = await authService.appleLogin({
+        userId: credential.user,
+        email: credential.email,
+        fullName: fullName || null,
+      });
+
+      await setLoggedIn(true, session.user, session.token);
+      toast.success('登录成功');
     } catch (e: any) {
       if (e.code !== 'ERR_REQUEST_CANCELED') {
-        console.error(e);
+        console.error('Apple login error:', e);
+        toast.error(e.message || '登录失败，请重试');
       }
+    } finally {
+      setIsLoading(false);
     }
   };
 
   const handleFallbackLogin = () => {
-    setLoggedIn(true);
+    // For testing purposes, just log in directly
+    // setLoggedIn(true);
+    toast.info('暂不支持其他登录方式');
   };
 
   return (
@@ -97,7 +119,11 @@ export const LoginScreen = () => {
 
           {/* Actions */}
           <Animated.View entering={FadeInDown.delay(800).duration(800).springify()} style={styles.bottomContainer}>
-            {isAppleAuthAvailable ? (
+            {isLoading ? (
+              <View style={[styles.fallbackButton, { backgroundColor: colors.surface }]}>
+                <ActivityIndicator color={colors.primary} />
+              </View>
+            ) : isAppleAuthAvailable ? (
               <AppleAuthentication.AppleAuthenticationButton
                 buttonType={AppleAuthentication.AppleAuthenticationButtonType.SIGN_IN}
                 buttonStyle={
@@ -115,7 +141,7 @@ export const LoginScreen = () => {
                 onPress={handleFallbackLogin}
                 activeOpacity={0.8}
               >
-                <Text style={styles.fallbackButtonText}>进入应用</Text>
+                <Text style={styles.fallbackButtonText}>登录 / 注册</Text>
               </TouchableOpacity>
             )}
             
@@ -143,7 +169,7 @@ const styles = StyleSheet.create({
     borderRadius: width * 0.75,
     top: -width * 0.5,
     left: -width * 0.5,
-    opacity: 0.18,
+    opacity: 0.1,
   },
   blob2: {
     position: 'absolute',
@@ -152,7 +178,7 @@ const styles = StyleSheet.create({
     borderRadius: width * 0.8,
     bottom: -width * 0.4,
     right: -width * 0.5,
-    opacity: 0.14,
+    opacity: 0.1,
   },
   blob3: {
     position: 'absolute',
@@ -161,7 +187,7 @@ const styles = StyleSheet.create({
     borderRadius: width * 0.6,
     top: height * 0.3,
     left: width * 0.1,
-    opacity: 0.14,
+    opacity: 0.1,
   },
   content: {
     flex: 1,
