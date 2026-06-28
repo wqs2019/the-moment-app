@@ -1,17 +1,15 @@
 import Ionicons from '@expo/vector-icons/Ionicons';
-import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
-import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import { createBottomTabNavigator, type BottomTabBarProps } from '@react-navigation/bottom-tabs';
+import React, { useEffect, useRef, useState, useCallback } from 'react';
+import { StyleSheet, Platform, View, Animated, Easing, Pressable, Text, AccessibilityInfo } from 'react-native';
+import { BlurView } from 'expo-blur';
+import { SafeAreaView } from 'react-native-safe-area-context';
 
-import Button from '../../components/common/Button';
-import CommonModal from '../../components/common/CommonModal';
-import { useToast } from '../../components/common/Toast';
-import { TCB_CONFIG } from '../../config/constant';
-import { ThemeMode } from '../../config/theme';
 import { useAppTheme } from '../../hooks/useAppTheme';
-import CloudService from '../../services/tcb';
-import { useAppStore } from '../../store/appStore';
-import PlaceholderScreen from '../placeholder/PlaceholderScreen';
+import { HomeScreen } from './HomeScreen';
+import { WorkspaceScreen } from './WorkspaceScreen';
+import { ServiceScreen } from './ServiceScreen';
+import { MeScreen } from './MeScreen';
 
 type MainTabParamList = {
   Home: undefined;
@@ -22,144 +20,6 @@ type MainTabParamList = {
 
 const Tab = createBottomTabNavigator<MainTabParamList>();
 
-const HomeScreen = () => {
-  const { info } = useToast();
-
-  return (
-    <PlaceholderScreen
-      eyebrow="Entry"
-      title="首页占位"
-      subtitle="这里作为应用默认入口，后续可承接首页聚合、推荐内容、快捷操作和状态总览。"
-      points={[
-        '已保留导航、主题状态和启动页基座',
-        '已接入 Toast、按钮、弹窗、加载态等通用组件',
-        '适合作为首屏聚合模块继续扩展',
-      ]}
-      actions={['接入业务卡片', '增加数据请求', '配置首页布局']}
-      onActionPress={(action) => info(`${action} 已预留`)}
-    />
-  );
-};
-
-const WorkspaceScreen = () => {
-  const { info } = useToast();
-
-  return (
-    <PlaceholderScreen
-      eyebrow="Modules"
-      title="工作台占位"
-      subtitle="这里适合放业务模块入口，例如表单流、内容流、任务流或多种功能聚合页。"
-      points={[
-        '底部 Tab 已初始化，可直接追加二级 Stack',
-        '页面样式与主题色自动联动',
-        '后续模块迁移时可按功能逐步接入',
-      ]}
-      actions={['新增模块路由', '拆分子导航', '接入列表页面']}
-      onActionPress={(action) => info(`${action} 已预留`)}
-    />
-  );
-};
-
-const ServiceScreen = () => {
-  const { colors } = useAppTheme();
-  const { info } = useToast();
-  const serviceReady = useAppStore((state) => state.serviceReady);
-  const configured = CloudService.isConfigured();
-
-  return (
-    <PlaceholderScreen
-      eyebrow="Service"
-      title="服务容器占位"
-      subtitle="已保留 CloudBase 初始化和云函数调用封装，后续可继续补业务 service 与 repository。"
-      points={[
-        `CloudBase 环境：${configured ? '已配置' : '未配置'}`,
-        `服务启动状态：${serviceReady ? '已完成匿名初始化' : '当前未建立连接'}`,
-        '已提供统一的 callFunction 与 uploadFile 封装',
-      ]}
-      actions={['填写 TCB_CONFIG', '新增云函数 service', '接入业务接口']}
-      footer={
-        <View style={[styles.card, { backgroundColor: colors.surface, borderColor: colors.border }]}>
-          <Text style={[styles.cardTitle, { color: colors.text }]}>当前配置</Text>
-          <Text style={[styles.cardText, { color: colors.textSecondary }]}>env: {TCB_CONFIG.env}</Text>
-          <Text style={[styles.cardText, { color: colors.textSecondary }]}>region: {TCB_CONFIG.region}</Text>
-        </View>
-      }
-      onActionPress={(action) => info(`${action} 已预留`)}
-    />
-  );
-};
-
-const ThemeActionButtons: React.FC<{ currentTheme: ThemeMode; onChange: (theme: ThemeMode) => void }> = ({
-  currentTheme,
-  onChange,
-}) => {
-  return (
-    <View style={styles.buttonGroup}>
-      {(['system', 'light', 'dark'] as ThemeMode[]).map((mode) => (
-        <Button
-          key={mode}
-          title={mode === 'system' ? '跟随系统' : mode === 'light' ? '浅色' : '深色'}
-          variant={currentTheme === mode ? 'primary' : 'secondary'}
-          onPress={() => onChange(mode)}
-        />
-      ))}
-    </View>
-  );
-};
-
-const MeScreen = () => {
-  const { colors } = useAppTheme();
-  const { info, success } = useToast();
-  const theme = useAppStore((state) => state.theme);
-  const setTheme = useAppStore((state) => state.setTheme);
-  const [visible, setVisible] = React.useState(false);
-
-  const handleThemeChange = async (mode: ThemeMode) => {
-    await setTheme(mode);
-    success(`已切换为${mode === 'system' ? '跟随系统' : mode === 'light' ? '浅色模式' : '深色模式'}`);
-  };
-
-  return (
-    <PlaceholderScreen
-      eyebrow="Profile"
-      title="我的占位"
-      subtitle="这里适合承接用户中心、设置、主题切换、账号信息和版本说明等内容。"
-      points={[
-        '全局 store 已支持主题模式持久化',
-        '已演示 Toast、弹窗和主题切换的使用方式',
-        '当前结构已适合扩展设置页、说明页和登录流程',
-      ]}
-      actions={['增加设置页', '打开弹窗示例', '接入个人中心']}
-      onActionPress={(action) => {
-        if (action === '打开弹窗示例') {
-          setVisible(true);
-          return;
-        }
-        info(`${action} 已预留为后续接入点`);
-      }}
-      footer={
-        <>
-          <View style={[styles.card, { backgroundColor: colors.surface, borderColor: colors.border }]}>
-            <Text style={[styles.cardTitle, { color: colors.text }]}>主题切换示例</Text>
-            <Text style={[styles.cardText, { color: colors.textSecondary }]}>
-              当前主题模式：{theme === 'system' ? '跟随系统' : theme === 'light' ? '浅色' : '深色'}
-            </Text>
-            <ThemeActionButtons currentTheme={theme} onChange={handleThemeChange} />
-          </View>
-          <CommonModal visible={visible} onClose={() => setVisible(false)} title="通用弹窗示例">
-            <Text style={[styles.cardText, { color: colors.textSecondary }]}>
-              这里可以替换成表单、确认弹窗、筛选面板或其他公共交互内容。
-            </Text>
-            <View style={styles.modalButtonWrap}>
-              <Button title="关闭弹窗" onPress={() => setVisible(false)} />
-            </View>
-          </CommonModal>
-        </>
-      }
-    />
-  );
-};
-
 const TAB_ICON_MAP: Record<keyof MainTabParamList, { default: React.ComponentProps<typeof Ionicons>['name']; active: React.ComponentProps<typeof Ionicons>['name'] }> = {
   Home: { default: 'home-outline', active: 'home' },
   Workspace: { default: 'grid-outline', active: 'grid' },
@@ -167,31 +27,237 @@ const TAB_ICON_MAP: Record<keyof MainTabParamList, { default: React.ComponentPro
   Me: { default: 'person-outline', active: 'person' },
 };
 
-const MainTabsScreen: React.FC = () => {
-  const { colors } = useAppTheme();
+const hexToRgba = (hex: string, alpha: number) => {
+  const normalized = hex.replace('#', '');
+  const fullHex =
+    normalized.length === 3
+      ? normalized
+          .split('')
+          .map((char) => char + char)
+          .join('')
+      : normalized;
+
+  const value = parseInt(fullHex, 16);
+  const r = (value >> 16) & 255;
+  const g = (value >> 8) & 255;
+  const b = value & 255;
+
+  return `rgba(${r}, ${g}, ${b}, ${alpha})`;
+};
+
+const AnimatedBlurView = Animated.createAnimatedComponent(BlurView);
+
+const CustomTabBar: React.FC<BottomTabBarProps> = ({ state, descriptors, navigation }) => {
+  const { colors, isDark } = useAppTheme();
+  const tabScaleMapRef = useRef<Record<string, Animated.Value>>({});
+  const shellScale = useRef(new Animated.Value(1)).current;
+  const shellLift = useRef(new Animated.Value(0)).current;
+  const shellGlow = useRef(new Animated.Value(0.14)).current;
+  const [reduceMotionEnabled, setReduceMotionEnabled] = useState(false);
+
+  const getTabScale = (routeKey: string) => {
+    if (!tabScaleMapRef.current[routeKey]) {
+      tabScaleMapRef.current[routeKey] = new Animated.Value(1);
+    }
+    return tabScaleMapRef.current[routeKey];
+  };
+
+  const animateTabScale = (routeKey: string, toValue: number, bounciness: number) => {
+    Animated.spring(getTabScale(routeKey), {
+      toValue,
+      bounciness,
+      speed: 22,
+      useNativeDriver: true,
+    }).start();
+  };
+
+  const animateShellPress = useCallback(
+    (pressed: boolean) => {
+      if (reduceMotionEnabled) {
+        shellScale.setValue(1);
+        shellLift.setValue(0);
+        shellGlow.setValue(0.16);
+        return;
+      }
+
+      Animated.parallel([
+        Animated.spring(shellScale, {
+          toValue: pressed ? 0.985 : 1,
+          speed: 22,
+          bounciness: pressed ? 0 : 10,
+          useNativeDriver: false,
+        }),
+        Animated.spring(shellLift, {
+          toValue: pressed ? -2 : 0,
+          speed: 18,
+          bounciness: pressed ? 0 : 8,
+          useNativeDriver: false,
+        }),
+        Animated.timing(shellGlow, {
+          toValue: pressed ? 0.26 : 0.16,
+          duration: pressed ? 120 : 240,
+          easing: Easing.out(Easing.cubic),
+          useNativeDriver: false,
+        }),
+      ]).start();
+    },
+    [reduceMotionEnabled, shellGlow, shellLift, shellScale]
+  );
+
+  useEffect(() => {
+    let isMounted = true;
+
+    AccessibilityInfo.isReduceMotionEnabled()
+      .then((enabled: boolean) => {
+        if (isMounted) {
+          setReduceMotionEnabled(enabled);
+        }
+      })
+      .catch(() => {
+        if (isMounted) {
+          setReduceMotionEnabled(false);
+        }
+      });
+
+    const subscription = AccessibilityInfo.addEventListener('reduceMotionChanged', (enabled: boolean) => {
+      setReduceMotionEnabled(enabled);
+    });
+
+    return () => {
+      isMounted = false;
+      subscription.remove();
+    };
+  }, []);
+
+  useEffect(() => {
+    if (reduceMotionEnabled) {
+      shellScale.setValue(1);
+      shellLift.setValue(0);
+      shellGlow.setValue(0.16);
+      return;
+    }
+
+    Animated.sequence([
+      Animated.timing(shellGlow, {
+        toValue: 0.22,
+        duration: 110,
+        easing: Easing.out(Easing.cubic),
+        useNativeDriver: false,
+      }),
+      Animated.timing(shellGlow, {
+        toValue: 0.16,
+        duration: 220,
+        easing: Easing.out(Easing.cubic),
+        useNativeDriver: false,
+      }),
+    ]).start();
+  }, [reduceMotionEnabled, shellGlow, shellLift, shellScale, state.index]);
 
   return (
+    <View pointerEvents="box-none" style={styles.tabBarOuter}>
+      <SafeAreaView edges={['bottom']} style={styles.tabBarSafeArea}>
+        <AnimatedBlurView
+          intensity={35}
+          tint={isDark ? 'dark' : 'light'}
+          style={[
+            styles.blurShell,
+            {
+              borderColor: hexToRgba(colors.border, isDark ? 0.68 : 0.85),
+              backgroundColor: hexToRgba(colors.surface, isDark ? 0.36 : 0.6),
+              transform: [{ translateY: shellLift }, { scale: shellScale }],
+            },
+          ]}
+        >
+          <View style={styles.tabBarRow}>
+            {state.routes.map((route, index) => {
+              const { options } = descriptors[route.key];
+              const tabLabel = options.tabBarLabel as string || options.title || route.name;
+              const isFocused = state.index === index;
+              const iconPair = TAB_ICON_MAP[route.name as keyof MainTabParamList];
+              const iconName = isFocused ? iconPair.active : iconPair.default;
+
+              const handleTabPress = () => {
+                const tabPressEvent = navigation.emit({
+                  type: 'tabPress',
+                  target: route.key,
+                  canPreventDefault: true,
+                });
+
+                if (!isFocused && !tabPressEvent.defaultPrevented) {
+                  navigation.navigate(route.name);
+                }
+              };
+
+              const handleTabLongPress = () => {
+                navigation.emit({
+                  type: 'tabLongPress',
+                  target: route.key,
+                });
+              };
+
+              return (
+                <Pressable
+                  key={route.key}
+                  onLongPress={handleTabLongPress}
+                  onPressIn={() => {
+                    animateTabScale(route.key, 0.92, 0);
+                    animateShellPress(true);
+                  }}
+                  onPress={handleTabPress}
+                  onPressOut={() => {
+                    animateTabScale(route.key, 1, 12);
+                    animateShellPress(false);
+                  }}
+                  style={styles.tabButton}
+                >
+                  <Animated.View
+                    style={[
+                      styles.tabButtonInner,
+                      {
+                        backgroundColor: isFocused
+                          ? hexToRgba(colors.primary, isDark ? 0.2 : 0.14)
+                          : 'transparent',
+                        minWidth: isFocused ? 84 : 68,
+                        transform: [{ scale: getTabScale(route.key) }],
+                      },
+                    ]}
+                  >
+                    <View style={styles.tabIconWrapper}>
+                      <Ionicons
+                        name={iconName}
+                        size={20}
+                        color={isFocused ? colors.primary : colors.textSecondary}
+                        style={styles.tabIcon}
+                      />
+                    </View>
+                    <Text
+                      style={[
+                        styles.tabLabel,
+                        {
+                          color: isFocused ? colors.primary : colors.textSecondary,
+                        },
+                      ]}
+                    >
+                      {tabLabel}
+                    </Text>
+                  </Animated.View>
+                </Pressable>
+              );
+            })}
+          </View>
+        </AnimatedBlurView>
+      </SafeAreaView>
+    </View>
+  );
+};
+
+const MainTabsScreen: React.FC = () => {
+  return (
     <Tab.Navigator
-      screenOptions={({ route }) => ({
+      screenOptions={{
         headerShown: false,
-        tabBarActiveTintColor: colors.primary,
-        tabBarInactiveTintColor: colors.textSecondary,
-        tabBarStyle: {
-          height: 64,
-          paddingTop: 6,
-          paddingBottom: 8,
-          backgroundColor: colors.surface,
-          borderTopColor: colors.border,
-        },
-        tabBarLabelStyle: {
-          fontSize: 12,
-          fontWeight: '600',
-        },
-        tabBarIcon: ({ color, size, focused }) => {
-          const iconPair = TAB_ICON_MAP[route.name as keyof MainTabParamList];
-          return <Ionicons name={focused ? iconPair.active : iconPair.default} size={size} color={color} />;
-        },
-      })}
+      }}
+      tabBar={(props) => <CustomTabBar {...props} />}
     >
       <Tab.Screen name="Home" component={HomeScreen} options={{ title: '首页', tabBarLabel: '首页' }} />
       <Tab.Screen name="Workspace" component={WorkspaceScreen} options={{ title: '工作台', tabBarLabel: '工作台' }} />
@@ -202,28 +268,56 @@ const MainTabsScreen: React.FC = () => {
 };
 
 const styles = StyleSheet.create({
-  card: {
-    marginHorizontal: 16,
-    marginTop: -4,
+  tabBarOuter: {
+    position: 'absolute',
+    left: 0,
+    right: 0,
+    bottom: 0,
+  },
+  tabBarSafeArea: {
+    paddingHorizontal: 12,
+    paddingBottom: Platform.OS === 'ios' ? 0 : 12,
+  },
+  blurShell: {
+    position: 'relative',
+    overflow: 'hidden',
     borderWidth: 1,
+    borderRadius: 26,
+  },
+  tabBarRow: {
+    flexDirection: 'row',
+    minHeight: 72,
+    paddingHorizontal: 8,
+    paddingTop: 8,
+    paddingBottom: 12,
+  },
+  tabButton: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  tabButtonInner: {
+    alignItems: 'center',
+    justifyContent: 'center',
     borderRadius: 18,
-    padding: 16,
+    paddingHorizontal: 14,
+    paddingVertical: 8,
+    gap: 4,
   },
-  cardTitle: {
-    fontSize: 18,
-    fontWeight: '700',
+  tabIconWrapper: {
+    position: 'relative',
+    alignItems: 'center',
+    justifyContent: 'center',
+    width: 28,
+    height: 24,
+    overflow: 'visible',
   },
-  cardText: {
-    marginTop: 8,
-    fontSize: 14,
-    lineHeight: 21,
+  tabLabel: {
+    fontSize: 12,
+    fontWeight: '600',
   },
-  buttonGroup: {
-    marginTop: 14,
-    gap: 12,
-  },
-  modalButtonWrap: {
-    marginTop: 16,
+  tabIcon: {
+    lineHeight: 20,
   },
 });
 
