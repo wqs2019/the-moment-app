@@ -1,0 +1,9300 @@
+[
+  {
+    "title": "躲在洗手间 闭眼休息1分钟",
+    "description": "给自己争取一点绝对的独处时间。把门外的喧闹关掉，现在你只是你自己。",
+    "durationMinutes": 4,
+    "energyValue": 17,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "独处",
+      "工作间隙"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "安静"
+    ]
+  },
+  {
+    "title": "转动脖子 3次",
+    "description": "把注意力从屏幕转移到身体上。感受肌肉的拉伸和血液的流动。",
+    "durationMinutes": 1,
+    "energyValue": 15,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前",
+      "通用"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "扔掉没用的包装盒",
+    "description": "物理空间的清理能带来立竿见影的爽快感。动动手，马上就能看到改变。",
+    "durationMinutes": 4,
+    "energyValue": 14,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "扔掉没用的包装盒",
+    "description": "物理空间的清理能带来立竿见影的爽快感。动动手，马上就能看到改变。",
+    "durationMinutes": 2,
+    "energyValue": 11,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "计划一件这个周末只属于自己的小事",
+    "description": "不要总是围着家庭转，把自己的需求放在第一位一次。",
+    "durationMinutes": 3,
+    "energyValue": 10,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "成就感"
+    ]
+  },
+  {
+    "title": "躲在卧室 闭眼休息1分钟",
+    "description": "给自己争取一点绝对的独处时间。把门外的喧闹关掉，现在你只是你自己。",
+    "durationMinutes": 4,
+    "energyValue": 12,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "独处",
+      "工作间隙"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "安静"
+    ]
+  },
+  {
+    "title": "躲在厨房 什么都不做发呆",
+    "description": "给自己争取一点绝对的独处时间。把门外的喧闹关掉，现在你只是你自己。",
+    "durationMinutes": 1,
+    "energyValue": 18,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "独处",
+      "工作间隙"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "安静"
+    ]
+  },
+  {
+    "title": "感受手心的温度 2分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 2,
+    "energyValue": 25,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "删掉3个无用群聊",
+    "description": "数字极简主义。清理掉无用的信息垃圾，手机和大脑都会变得更轻盈。",
+    "durationMinutes": 1,
+    "energyValue": 24,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "通用"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "拉伸背部 1分钟",
+    "description": "把注意力从屏幕转移到身体上。感受肌肉的拉伸和血液的流动。",
+    "durationMinutes": 2,
+    "energyValue": 22,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前",
+      "通用"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "躲在洗手间 听一首喜欢的歌",
+    "description": "给自己争取一点绝对的独处时间。把门外的喧闹关掉，现在你只是你自己。",
+    "durationMinutes": 1,
+    "energyValue": 10,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "独处",
+      "工作间隙"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "安静"
+    ]
+  },
+  {
+    "title": "躲在洗手间 听一首喜欢的歌",
+    "description": "给自己争取一点绝对的独处时间。把门外的喧闹关掉，现在你只是你自己。",
+    "durationMinutes": 2,
+    "energyValue": 23,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "独处",
+      "工作间隙"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "安静"
+    ]
+  },
+  {
+    "title": "盯着窗外的云发呆 1分钟",
+    "description": "允许自己大脑完全空白。什么都不想，只是单纯地“存在”一会儿。",
+    "durationMinutes": 2,
+    "energyValue": 21,
+    "targetAudience": [
+      "资深打工人",
+      "年轻父母"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "预定明天的一杯冰美式",
+    "description": "用一点小小的物质奖励，犒劳辛苦工作的自己。给明天留一个具体的期待。",
+    "durationMinutes": 1,
+    "energyValue": 12,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "关闭购物软件的消息通知",
+    "description": "夺回注意力的控制权。世界不会因为你晚回了几分钟消息而崩塌。",
+    "durationMinutes": 1,
+    "energyValue": 20,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "安静"
+    ]
+  },
+  {
+    "title": "盯着窗外的云发呆 1分钟",
+    "description": "允许自己大脑完全空白。什么都不想，只是单纯地“存在”一会儿。",
+    "durationMinutes": 3,
+    "energyValue": 25,
+    "targetAudience": [
+      "资深打工人",
+      "年轻父母"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "给前公司的HR发一句周末愉快",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 4,
+    "energyValue": 10,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "计划下周的一顿大餐",
+    "description": "给自己设定一个小小的盼头。有了期待，当下的枯燥也会变得容易忍受一些。",
+    "durationMinutes": 4,
+    "energyValue": 19,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "写下关于人际关系的一个小目标",
+    "description": "打开备忘录，把脑子里乱糟糟的想法写下来。写出来，它就不再是一团迷雾了。",
+    "durationMinutes": 3,
+    "energyValue": 23,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "创作表达",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "写下关于未来就业的三个担忧",
+    "description": "打开备忘录，把脑子里乱糟糟的想法写下来。写出来，它就不再是一团迷雾了。",
+    "durationMinutes": 3,
+    "energyValue": 18,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "创作表达",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "整理电脑桌面",
+    "description": "花几分钟时间，把杂乱的信息归类。物理或数字空间的秩序感，能极大缓解内心的焦虑。",
+    "durationMinutes": 1,
+    "energyValue": 18,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "整理错题本",
+    "description": "花几分钟时间，把杂乱的信息归类。物理或数字空间的秩序感，能极大缓解内心的焦虑。",
+    "durationMinutes": 1,
+    "energyValue": 13,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "整理专业课笔记",
+    "description": "花几分钟时间，把杂乱的信息归类。物理或数字空间的秩序感，能极大缓解内心的焦虑。",
+    "durationMinutes": 3,
+    "energyValue": 17,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "给大学室友发一句突然想起你了",
+    "description": "打开微信，找到那个躺在列表里的人，发一句简单的问候。不需要长篇大论，一句话就能建立一次温暖的连接。",
+    "durationMinutes": 2,
+    "energyValue": 22,
+    "targetAudience": [
+      "大学生",
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通用"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "怀旧",
+      "治愈",
+      "活跃"
+    ]
+  },
+  {
+    "title": "写下关于四六级的最坏的打算",
+    "description": "打开备忘录，把脑子里乱糟糟的想法写下来。写出来，它就不再是一团迷雾了。",
+    "durationMinutes": 2,
+    "energyValue": 16,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "创作表达",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "扔掉过期的票据",
+    "description": "物理空间的清理能带来立竿见影的爽快感。动动手，马上就能看到改变。",
+    "durationMinutes": 4,
+    "energyValue": 20,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "感受手心的温度 1分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 3,
+    "energyValue": 13,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "给另一半发一句“辛苦了”",
+    "description": "在柴米油盐和带娃的兵荒马乱中，找回一点属于两个人的连接。",
+    "durationMinutes": 3,
+    "energyValue": 25,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前",
+      "工作间隙"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "揉压眼睛 1分钟",
+    "description": "放下手机，闭上眼睛，用双手感受肌肉的紧绷，然后慢慢让它放松下来。",
+    "durationMinutes": 3,
+    "energyValue": 21,
+    "targetAudience": [
+      "资深打工人",
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "翻看孩子最搞笑瞬间的照片",
+    "description": "在相册里搜索回忆。看看那个小小的生命，找回最初的感动和力量。",
+    "durationMinutes": 3,
+    "energyValue": 19,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "写下关于未来就业的一句吐槽",
+    "description": "打开备忘录，把脑子里乱糟糟的想法写下来。写出来，它就不再是一团迷雾了。",
+    "durationMinutes": 4,
+    "energyValue": 10,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "创作表达",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "计划这个周末的一场电影",
+    "description": "给自己设定一个小小的盼头。有了期待，当下的枯燥也会变得容易忍受一些。",
+    "durationMinutes": 4,
+    "energyValue": 23,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "感受自己的呼吸 2分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 3,
+    "energyValue": 14,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "盯着桌上的绿植发呆 1分钟",
+    "description": "允许自己大脑完全空白。什么都不想，只是单纯地“存在”一会儿。",
+    "durationMinutes": 4,
+    "energyValue": 18,
+    "targetAudience": [
+      "资深打工人",
+      "年轻父母"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "清理微信文件传输助手",
+    "description": "把那些“以后可能会看”但其实再也没看过的东西删掉。承认自己看不完，也是一种解脱。",
+    "durationMinutes": 3,
+    "energyValue": 23,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "给老乡发一句突然想起你了",
+    "description": "打开微信，找到那个躺在列表里的人，发一句简单的问候。不需要长篇大论，一句话就能建立一次温暖的连接。",
+    "durationMinutes": 2,
+    "energyValue": 11,
+    "targetAudience": [
+      "大学生",
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通用"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "怀旧",
+      "治愈",
+      "活跃"
+    ]
+  },
+  {
+    "title": "清理飞书收藏",
+    "description": "把那些“以后可能会看”但其实再也没看过的东西删掉。承认自己看不完，也是一种解脱。",
+    "durationMinutes": 4,
+    "energyValue": 13,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "闭眼休息 3次",
+    "description": "把注意力从屏幕转移到身体上。感受肌肉的拉伸和血液的流动。",
+    "durationMinutes": 2,
+    "energyValue": 16,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前",
+      "通用"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "计划考完试后的一顿大餐",
+    "description": "给自己设定一个小小的盼头。有了期待，当下的枯燥也会变得容易忍受一些。",
+    "durationMinutes": 3,
+    "energyValue": 12,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "扔掉没用的包装盒",
+    "description": "物理空间的清理能带来立竿见影的爽快感。动动手，马上就能看到改变。",
+    "durationMinutes": 2,
+    "energyValue": 11,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "给大学室友发一句周末开黑吗",
+    "description": "打开微信，找到那个躺在列表里的人，发一句简单的问候。不需要长篇大论，一句话就能建立一次温暖的连接。",
+    "durationMinutes": 1,
+    "energyValue": 25,
+    "targetAudience": [
+      "大学生",
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通用"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "怀旧",
+      "治愈",
+      "活跃"
+    ]
+  },
+  {
+    "title": "扔掉写废的草稿纸",
+    "description": "物理空间的清理能带来立竿见影的爽快感。动动手，马上就能看到改变。",
+    "durationMinutes": 4,
+    "energyValue": 14,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "揉压眼睛 1分钟",
+    "description": "放下手机，闭上眼睛，用双手感受肌肉的紧绷，然后慢慢让它放松下来。",
+    "durationMinutes": 1,
+    "energyValue": 22,
+    "targetAudience": [
+      "资深打工人",
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "揉压肩膀 30秒",
+    "description": "放下手机，闭上眼睛，用双手感受肌肉的紧绷，然后慢慢让它放松下来。",
+    "durationMinutes": 1,
+    "energyValue": 13,
+    "targetAudience": [
+      "资深打工人",
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "给合作过的设计发一句感谢",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 1,
+    "energyValue": 25,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "揉压太阳穴 30秒",
+    "description": "放下手机，闭上眼睛，用双手感受肌肉的紧绷，然后慢慢让它放松下来。",
+    "durationMinutes": 3,
+    "energyValue": 20,
+    "targetAudience": [
+      "资深打工人",
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "关闭朋友圈的消息通知",
+    "description": "夺回注意力的控制权。世界不会因为你晚回了几分钟消息而崩塌。",
+    "durationMinutes": 4,
+    "energyValue": 12,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "安静"
+    ]
+  },
+  {
+    "title": "盯着远处的建筑发呆 3分钟",
+    "description": "允许自己大脑完全空白。什么都不想，只是单纯地“存在”一会儿。",
+    "durationMinutes": 4,
+    "energyValue": 18,
+    "targetAudience": [
+      "资深打工人",
+      "年轻父母"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "盯着自己的手心发呆 1分钟",
+    "description": "允许自己大脑完全空白。什么都不想，只是单纯地“存在”一会儿。",
+    "durationMinutes": 1,
+    "energyValue": 25,
+    "targetAudience": [
+      "资深打工人",
+      "年轻父母"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "回想今天最顺利的一件事",
+    "description": "关掉屏幕，闭上眼睛复盘一下。哪怕只是“今天外卖送得很准时”也可以。",
+    "durationMinutes": 4,
+    "energyValue": 18,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤",
+      "独处"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "治愈"
+    ]
+  },
+  {
+    "title": "扔掉写废的草稿纸",
+    "description": "物理空间的清理能带来立竿见影的爽快感。动动手，马上就能看到改变。",
+    "durationMinutes": 3,
+    "energyValue": 16,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "删掉3个无用群聊",
+    "description": "数字极简主义。清理掉无用的信息垃圾，手机和大脑都会变得更轻盈。",
+    "durationMinutes": 3,
+    "energyValue": 15,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "通用"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "感受周围环境的声音 2分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 3,
+    "energyValue": 19,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "关闭朋友圈的消息通知",
+    "description": "夺回注意力的控制权。世界不会因为你晚回了几分钟消息而崩塌。",
+    "durationMinutes": 4,
+    "energyValue": 23,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "安静"
+    ]
+  },
+  {
+    "title": "计划一件这个周末只属于自己的购物",
+    "description": "不要总是围着家庭转，把自己的需求放在第一位一次。",
+    "durationMinutes": 4,
+    "energyValue": 24,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "成就感"
+    ]
+  },
+  {
+    "title": "拉伸背部 5次",
+    "description": "把注意力从屏幕转移到身体上。感受肌肉的拉伸和血液的流动。",
+    "durationMinutes": 3,
+    "energyValue": 13,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前",
+      "通用"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "扔掉没用的包装盒",
+    "description": "物理空间的清理能带来立竿见影的爽快感。动动手，马上就能看到改变。",
+    "durationMinutes": 4,
+    "energyValue": 21,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "感受周围环境的声音 2分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 2,
+    "energyValue": 24,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "揉压太阳穴 2分钟",
+    "description": "放下手机，闭上眼睛，用双手感受肌肉的紧绷，然后慢慢让它放松下来。",
+    "durationMinutes": 2,
+    "energyValue": 16,
+    "targetAudience": [
+      "资深打工人",
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "转动脖子 2分钟",
+    "description": "把注意力从屏幕转移到身体上。感受肌肉的拉伸和血液的流动。",
+    "durationMinutes": 2,
+    "energyValue": 17,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前",
+      "通用"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "去茶水间做发呆1分钟",
+    "description": "离开工位，物理上的转移能带来心理上的切换。把注意力放在自己的身体感受上。",
+    "durationMinutes": 2,
+    "energyValue": 15,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "给社团学长发一句突然想起你了",
+    "description": "打开微信，找到那个躺在列表里的人，发一句简单的问候。不需要长篇大论，一句话就能建立一次温暖的连接。",
+    "durationMinutes": 3,
+    "energyValue": 16,
+    "targetAudience": [
+      "大学生",
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通用"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "怀旧",
+      "治愈",
+      "活跃"
+    ]
+  },
+  {
+    "title": "关闭购物软件的红点提醒",
+    "description": "夺回注意力的控制权。世界不会因为你晚回了几分钟消息而崩塌。",
+    "durationMinutes": 4,
+    "energyValue": 25,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "安静"
+    ]
+  },
+  {
+    "title": "揉压太阳穴 2分钟",
+    "description": "放下手机，闭上眼睛，用双手感受肌肉的紧绷，然后慢慢让它放松下来。",
+    "durationMinutes": 2,
+    "energyValue": 24,
+    "targetAudience": [
+      "资深打工人",
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "预定明天的下午茶",
+    "description": "用一点小小的物质奖励，犒劳辛苦工作的自己。给明天留一个具体的期待。",
+    "durationMinutes": 1,
+    "energyValue": 22,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "盯着窗外的云发呆 2分钟",
+    "description": "允许自己大脑完全空白。什么都不想，只是单纯地“存在”一会儿。",
+    "durationMinutes": 2,
+    "energyValue": 24,
+    "targetAudience": [
+      "资深打工人",
+      "年轻父母"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "写下关于人际关系的一句吐槽",
+    "description": "打开备忘录，把脑子里乱糟糟的想法写下来。写出来，它就不再是一团迷雾了。",
+    "durationMinutes": 3,
+    "energyValue": 20,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "创作表达",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "盯着窗外的云发呆 2分钟",
+    "description": "允许自己大脑完全空白。什么都不想，只是单纯地“存在”一会儿。",
+    "durationMinutes": 3,
+    "energyValue": 22,
+    "targetAudience": [
+      "资深打工人",
+      "年轻父母"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "预定明天的一杯冰美式",
+    "description": "用一点小小的物质奖励，犒劳辛苦工作的自己。给明天留一个具体的期待。",
+    "durationMinutes": 2,
+    "energyValue": 25,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "整理专业课笔记",
+    "description": "花几分钟时间，把杂乱的信息归类。物理或数字空间的秩序感，能极大缓解内心的焦虑。",
+    "durationMinutes": 1,
+    "energyValue": 17,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "关闭朋友圈的弹窗",
+    "description": "夺回注意力的控制权。世界不会因为你晚回了几分钟消息而崩塌。",
+    "durationMinutes": 4,
+    "energyValue": 23,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "安静"
+    ]
+  },
+  {
+    "title": "给另一半发问晚上吃啥",
+    "description": "在柴米油盐和带娃的兵荒马乱中，找回一点属于两个人的连接。",
+    "durationMinutes": 3,
+    "energyValue": 13,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前",
+      "工作间隙"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "给大学室友发一句突然想起你了",
+    "description": "打开微信，找到那个躺在列表里的人，发一句简单的问候。不需要长篇大论，一句话就能建立一次温暖的连接。",
+    "durationMinutes": 1,
+    "energyValue": 18,
+    "targetAudience": [
+      "大学生",
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通用"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "怀旧",
+      "治愈",
+      "活跃"
+    ]
+  },
+  {
+    "title": "揉压太阳穴 30秒",
+    "description": "放下手机，闭上眼睛，用双手感受肌肉的紧绷，然后慢慢让它放松下来。",
+    "durationMinutes": 2,
+    "energyValue": 10,
+    "targetAudience": [
+      "资深打工人",
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "活动脚踝 5次",
+    "description": "把注意力从屏幕转移到身体上。感受肌肉的拉伸和血液的流动。",
+    "durationMinutes": 3,
+    "energyValue": 14,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前",
+      "通用"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "揉压肩膀 30秒",
+    "description": "放下手机，闭上眼睛，用双手感受肌肉的紧绷，然后慢慢让它放松下来。",
+    "durationMinutes": 3,
+    "energyValue": 17,
+    "targetAudience": [
+      "资深打工人",
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "给合作过的设计发一句点赞",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 4,
+    "energyValue": 10,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "躲在厨房 闭眼休息1分钟",
+    "description": "给自己争取一点绝对的独处时间。把门外的喧闹关掉，现在你只是你自己。",
+    "durationMinutes": 2,
+    "energyValue": 15,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "独处",
+      "工作间隙"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "安静"
+    ]
+  },
+  {
+    "title": "扔掉过期的票据",
+    "description": "物理空间的清理能带来立竿见影的爽快感。动动手，马上就能看到改变。",
+    "durationMinutes": 2,
+    "energyValue": 25,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "盯着自己的手心发呆 2分钟",
+    "description": "允许自己大脑完全空白。什么都不想，只是单纯地“存在”一会儿。",
+    "durationMinutes": 4,
+    "energyValue": 18,
+    "targetAudience": [
+      "资深打工人",
+      "年轻父母"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "给大学室友发一句最近怎么样",
+    "description": "打开微信，找到那个躺在列表里的人，发一句简单的问候。不需要长篇大论，一句话就能建立一次温暖的连接。",
+    "durationMinutes": 2,
+    "energyValue": 17,
+    "targetAudience": [
+      "大学生",
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通用"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "怀旧",
+      "治愈",
+      "活跃"
+    ]
+  },
+  {
+    "title": "揉压太阳穴 2分钟",
+    "description": "放下手机，闭上眼睛，用双手感受肌肉的紧绷，然后慢慢让它放松下来。",
+    "durationMinutes": 1,
+    "energyValue": 25,
+    "targetAudience": [
+      "资深打工人",
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "计划一件下周只属于自己的电影",
+    "description": "不要总是围着家庭转，把自己的需求放在第一位一次。",
+    "durationMinutes": 3,
+    "energyValue": 20,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "成就感"
+    ]
+  },
+  {
+    "title": "回想今天最无语的一个细节",
+    "description": "关掉屏幕，闭上眼睛复盘一下。哪怕只是“今天外卖送得很准时”也可以。",
+    "durationMinutes": 2,
+    "energyValue": 21,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤",
+      "独处"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "治愈"
+    ]
+  },
+  {
+    "title": "关闭购物软件的消息通知",
+    "description": "夺回注意力的控制权。世界不会因为你晚回了几分钟消息而崩塌。",
+    "durationMinutes": 3,
+    "energyValue": 13,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "安静"
+    ]
+  },
+  {
+    "title": "盯着自己的手心发呆 1分钟",
+    "description": "允许自己大脑完全空白。什么都不想，只是单纯地“存在”一会儿。",
+    "durationMinutes": 1,
+    "energyValue": 12,
+    "targetAudience": [
+      "资深打工人",
+      "年轻父母"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "感受脚踩在地上的感觉 1分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 1,
+    "energyValue": 19,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "去楼梯间做伸个懒腰",
+    "description": "离开工位，物理上的转移能带来心理上的切换。把注意力放在自己的身体感受上。",
+    "durationMinutes": 1,
+    "energyValue": 12,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "扔掉写废的草稿纸",
+    "description": "物理空间的清理能带来立竿见影的爽快感。动动手，马上就能看到改变。",
+    "durationMinutes": 1,
+    "energyValue": 12,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "预定明天的一杯冰美式",
+    "description": "用一点小小的物质奖励，犒劳辛苦工作的自己。给明天留一个具体的期待。",
+    "durationMinutes": 4,
+    "energyValue": 19,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "给高中同桌发一句周末开黑吗",
+    "description": "打开微信，找到那个躺在列表里的人，发一句简单的问候。不需要长篇大论，一句话就能建立一次温暖的连接。",
+    "durationMinutes": 1,
+    "energyValue": 15,
+    "targetAudience": [
+      "大学生",
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通用"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "怀旧",
+      "治愈",
+      "活跃"
+    ]
+  },
+  {
+    "title": "翻看孩子满月时的照片",
+    "description": "在相册里搜索回忆。看看那个小小的生命，找回最初的感动和力量。",
+    "durationMinutes": 1,
+    "energyValue": 21,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "去楼下便利店做喝一杯温水",
+    "description": "离开工位，物理上的转移能带来心理上的切换。把注意力放在自己的身体感受上。",
+    "durationMinutes": 2,
+    "energyValue": 19,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "翻看孩子刚出生时的照片",
+    "description": "在相册里搜索回忆。看看那个小小的生命，找回最初的感动和力量。",
+    "durationMinutes": 1,
+    "energyValue": 24,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "写下关于人际关系的三个担忧",
+    "description": "打开备忘录，把脑子里乱糟糟的想法写下来。写出来，它就不再是一团迷雾了。",
+    "durationMinutes": 3,
+    "energyValue": 17,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "创作表达",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "去楼下便利店做喝一杯温水",
+    "description": "离开工位，物理上的转移能带来心理上的切换。把注意力放在自己的身体感受上。",
+    "durationMinutes": 3,
+    "energyValue": 21,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "给高中同桌发一句最近怎么样",
+    "description": "打开微信，找到那个躺在列表里的人，发一句简单的问候。不需要长篇大论，一句话就能建立一次温暖的连接。",
+    "durationMinutes": 1,
+    "energyValue": 20,
+    "targetAudience": [
+      "大学生",
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通用"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "怀旧",
+      "治愈",
+      "活跃"
+    ]
+  },
+  {
+    "title": "扔掉桌上的垃圾",
+    "description": "物理空间的清理能带来立竿见影的爽快感。动动手，马上就能看到改变。",
+    "durationMinutes": 4,
+    "energyValue": 24,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "计划一件这个周末只属于自己的零食时间",
+    "description": "不要总是围着家庭转，把自己的需求放在第一位一次。",
+    "durationMinutes": 2,
+    "energyValue": 14,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "成就感"
+    ]
+  },
+  {
+    "title": "盯着自己的手心发呆 2分钟",
+    "description": "允许自己大脑完全空白。什么都不想，只是单纯地“存在”一会儿。",
+    "durationMinutes": 2,
+    "energyValue": 24,
+    "targetAudience": [
+      "资深打工人",
+      "年轻父母"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "揉压肩膀 1分钟",
+    "description": "放下手机，闭上眼睛，用双手感受肌肉的紧绷，然后慢慢让它放松下来。",
+    "durationMinutes": 2,
+    "energyValue": 25,
+    "targetAudience": [
+      "资深打工人",
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "关闭购物软件的消息通知",
+    "description": "夺回注意力的控制权。世界不会因为你晚回了几分钟消息而崩塌。",
+    "durationMinutes": 4,
+    "energyValue": 10,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "安静"
+    ]
+  },
+  {
+    "title": "写下关于人际关系的最坏的打算",
+    "description": "打开备忘录，把脑子里乱糟糟的想法写下来。写出来，它就不再是一团迷雾了。",
+    "durationMinutes": 1,
+    "energyValue": 25,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "创作表达",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "写下关于未来就业的一个小目标",
+    "description": "打开备忘录，把脑子里乱糟糟的想法写下来。写出来，它就不再是一团迷雾了。",
+    "durationMinutes": 2,
+    "energyValue": 15,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "创作表达",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "回想今天最有成就感的一句话",
+    "description": "关掉屏幕，闭上眼睛复盘一下。哪怕只是“今天外卖送得很准时”也可以。",
+    "durationMinutes": 3,
+    "energyValue": 11,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤",
+      "独处"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "治愈"
+    ]
+  },
+  {
+    "title": "去楼梯间做3次深呼吸",
+    "description": "离开工位，物理上的转移能带来心理上的切换。把注意力放在自己的身体感受上。",
+    "durationMinutes": 3,
+    "energyValue": 18,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "翻看孩子第一次走路的照片",
+    "description": "在相册里搜索回忆。看看那个小小的生命，找回最初的感动和力量。",
+    "durationMinutes": 3,
+    "energyValue": 23,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "计划一件今晚等娃睡了只属于自己的零食时间",
+    "description": "不要总是围着家庭转，把自己的需求放在第一位一次。",
+    "durationMinutes": 2,
+    "energyValue": 10,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "成就感"
+    ]
+  },
+  {
+    "title": "感受椅子的支撑力 2分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 4,
+    "energyValue": 16,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "给前公司的HR发一句周末愉快",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 4,
+    "energyValue": 25,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "计划下周的一次懒觉",
+    "description": "给自己设定一个小小的盼头。有了期待，当下的枯燥也会变得容易忍受一些。",
+    "durationMinutes": 1,
+    "energyValue": 10,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "写下关于人际关系的三个担忧",
+    "description": "打开备忘录，把脑子里乱糟糟的想法写下来。写出来，它就不再是一团迷雾了。",
+    "durationMinutes": 4,
+    "energyValue": 12,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "创作表达",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "计划一件今晚等娃睡了只属于自己的电影",
+    "description": "不要总是围着家庭转，把自己的需求放在第一位一次。",
+    "durationMinutes": 2,
+    "energyValue": 17,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "成就感"
+    ]
+  },
+  {
+    "title": "给初中死党发一句突然想起你了",
+    "description": "打开微信，找到那个躺在列表里的人，发一句简单的问候。不需要长篇大论，一句话就能建立一次温暖的连接。",
+    "durationMinutes": 3,
+    "energyValue": 16,
+    "targetAudience": [
+      "大学生",
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通用"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "怀旧",
+      "治愈",
+      "活跃"
+    ]
+  },
+  {
+    "title": "去窗边做喝一杯温水",
+    "description": "离开工位，物理上的转移能带来心理上的切换。把注意力放在自己的身体感受上。",
+    "durationMinutes": 2,
+    "energyValue": 10,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "整理书包",
+    "description": "花几分钟时间，把杂乱的信息归类。物理或数字空间的秩序感，能极大缓解内心的焦虑。",
+    "durationMinutes": 3,
+    "energyValue": 21,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "揉压太阳穴 1分钟",
+    "description": "放下手机，闭上眼睛，用双手感受肌肉的紧绷，然后慢慢让它放松下来。",
+    "durationMinutes": 4,
+    "energyValue": 11,
+    "targetAudience": [
+      "资深打工人",
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "给合作过的设计发一句辛苦了",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 3,
+    "energyValue": 20,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "躲在卧室 闭眼休息1分钟",
+    "description": "给自己争取一点绝对的独处时间。把门外的喧闹关掉，现在你只是你自己。",
+    "durationMinutes": 2,
+    "energyValue": 19,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "独处",
+      "工作间隙"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "安静"
+    ]
+  },
+  {
+    "title": "整理错题本",
+    "description": "花几分钟时间，把杂乱的信息归类。物理或数字空间的秩序感，能极大缓解内心的焦虑。",
+    "durationMinutes": 2,
+    "energyValue": 17,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "回想今天学到新东西的一个瞬间",
+    "description": "关掉屏幕，闭上眼睛复盘一下。哪怕只是“今天外卖送得很准时”也可以。",
+    "durationMinutes": 1,
+    "energyValue": 22,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤",
+      "独处"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "治愈"
+    ]
+  },
+  {
+    "title": "关闭不重要的闲聊群的消息通知",
+    "description": "夺回注意力的控制权。世界不会因为你晚回了几分钟消息而崩塌。",
+    "durationMinutes": 2,
+    "energyValue": 13,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "安静"
+    ]
+  },
+  {
+    "title": "给帮忙的开发发一句辛苦了",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 2,
+    "energyValue": 22,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "给带你的前辈发一句感谢",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 4,
+    "energyValue": 12,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "去洗手间做发呆1分钟",
+    "description": "离开工位，物理上的转移能带来心理上的切换。把注意力放在自己的身体感受上。",
+    "durationMinutes": 3,
+    "energyValue": 11,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "计划一件今晚等娃睡了只属于自己的小事",
+    "description": "不要总是围着家庭转，把自己的需求放在第一位一次。",
+    "durationMinutes": 3,
+    "energyValue": 23,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "成就感"
+    ]
+  },
+  {
+    "title": "给社团学长发一句推荐一首歌",
+    "description": "打开微信，找到那个躺在列表里的人，发一句简单的问候。不需要长篇大论，一句话就能建立一次温暖的连接。",
+    "durationMinutes": 1,
+    "energyValue": 16,
+    "targetAudience": [
+      "大学生",
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通用"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "怀旧",
+      "治愈",
+      "活跃"
+    ]
+  },
+  {
+    "title": "给辅导员发一句分享个搞笑视频",
+    "description": "打开微信，找到那个躺在列表里的人，发一句简单的问候。不需要长篇大论，一句话就能建立一次温暖的连接。",
+    "durationMinutes": 1,
+    "energyValue": 15,
+    "targetAudience": [
+      "大学生",
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通用"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "怀旧",
+      "治愈",
+      "活跃"
+    ]
+  },
+  {
+    "title": "给前公司的HR发一句辛苦了",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 1,
+    "energyValue": 17,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "删掉5个不看的公众号",
+    "description": "数字极简主义。清理掉无用的信息垃圾，手机和大脑都会变得更轻盈。",
+    "durationMinutes": 1,
+    "energyValue": 18,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "通用"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "写下关于未来就业的一句吐槽",
+    "description": "打开备忘录，把脑子里乱糟糟的想法写下来。写出来，它就不再是一团迷雾了。",
+    "durationMinutes": 2,
+    "energyValue": 24,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "创作表达",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "写下关于四六级的一个小目标",
+    "description": "打开备忘录，把脑子里乱糟糟的想法写下来。写出来，它就不再是一团迷雾了。",
+    "durationMinutes": 3,
+    "energyValue": 23,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "创作表达",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "感受手心的温度 2分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 2,
+    "energyValue": 16,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "预定明天的下午茶",
+    "description": "用一点小小的物质奖励，犒劳辛苦工作的自己。给明天留一个具体的期待。",
+    "durationMinutes": 2,
+    "energyValue": 11,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "给同期入职的同事发一句辛苦了",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 4,
+    "energyValue": 10,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "计划一件下周只属于自己的零食时间",
+    "description": "不要总是围着家庭转，把自己的需求放在第一位一次。",
+    "durationMinutes": 2,
+    "energyValue": 10,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "成就感"
+    ]
+  },
+  {
+    "title": "躲在厨房 听一首喜欢的歌",
+    "description": "给自己争取一点绝对的独处时间。把门外的喧闹关掉，现在你只是你自己。",
+    "durationMinutes": 3,
+    "energyValue": 21,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "独处",
+      "工作间隙"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "安静"
+    ]
+  },
+  {
+    "title": "计划一件下周只属于自己的小事",
+    "description": "不要总是围着家庭转，把自己的需求放在第一位一次。",
+    "durationMinutes": 2,
+    "energyValue": 11,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "成就感"
+    ]
+  },
+  {
+    "title": "拉伸背部 3次",
+    "description": "把注意力从屏幕转移到身体上。感受肌肉的拉伸和血液的流动。",
+    "durationMinutes": 3,
+    "energyValue": 19,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前",
+      "通用"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "写下关于未来就业的三个担忧",
+    "description": "打开备忘录，把脑子里乱糟糟的想法写下来。写出来，它就不再是一团迷雾了。",
+    "durationMinutes": 3,
+    "energyValue": 18,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "创作表达",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "计划这个周末的一次懒觉",
+    "description": "给自己设定一个小小的盼头。有了期待，当下的枯燥也会变得容易忍受一些。",
+    "durationMinutes": 3,
+    "energyValue": 19,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "给另一半发一个搞笑视频",
+    "description": "在柴米油盐和带娃的兵荒马乱中，找回一点属于两个人的连接。",
+    "durationMinutes": 1,
+    "energyValue": 10,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前",
+      "工作间隙"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "给初中死党发一句分享个搞笑视频",
+    "description": "打开微信，找到那个躺在列表里的人，发一句简单的问候。不需要长篇大论，一句话就能建立一次温暖的连接。",
+    "durationMinutes": 3,
+    "energyValue": 12,
+    "targetAudience": [
+      "大学生",
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通用"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "怀旧",
+      "治愈",
+      "活跃"
+    ]
+  },
+  {
+    "title": "揉压颈椎 2分钟",
+    "description": "放下手机，闭上眼睛，用双手感受肌肉的紧绷，然后慢慢让它放松下来。",
+    "durationMinutes": 1,
+    "energyValue": 15,
+    "targetAudience": [
+      "资深打工人",
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "去楼下便利店做发呆1分钟",
+    "description": "离开工位，物理上的转移能带来心理上的切换。把注意力放在自己的身体感受上。",
+    "durationMinutes": 2,
+    "energyValue": 11,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "给前公司的HR发一句周末愉快",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 2,
+    "energyValue": 13,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "计划一件明天中午只属于自己的购物",
+    "description": "不要总是围着家庭转，把自己的需求放在第一位一次。",
+    "durationMinutes": 2,
+    "energyValue": 19,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "成就感"
+    ]
+  },
+  {
+    "title": "感受手心的温度 2分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 2,
+    "energyValue": 11,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "计划下周的一次周边游",
+    "description": "给自己设定一个小小的盼头。有了期待，当下的枯燥也会变得容易忍受一些。",
+    "durationMinutes": 4,
+    "energyValue": 19,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "给帮忙的开发发一句辛苦了",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 4,
+    "energyValue": 10,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "关闭不重要的闲聊群的红点提醒",
+    "description": "夺回注意力的控制权。世界不会因为你晚回了几分钟消息而崩塌。",
+    "durationMinutes": 1,
+    "energyValue": 20,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "安静"
+    ]
+  },
+  {
+    "title": "预定明天的健康午餐",
+    "description": "用一点小小的物质奖励，犒劳辛苦工作的自己。给明天留一个具体的期待。",
+    "durationMinutes": 4,
+    "energyValue": 22,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "给老乡发一句周末开黑吗",
+    "description": "打开微信，找到那个躺在列表里的人，发一句简单的问候。不需要长篇大论，一句话就能建立一次温暖的连接。",
+    "durationMinutes": 4,
+    "energyValue": 13,
+    "targetAudience": [
+      "大学生",
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通用"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "怀旧",
+      "治愈",
+      "活跃"
+    ]
+  },
+  {
+    "title": "去窗边做发呆1分钟",
+    "description": "离开工位，物理上的转移能带来心理上的切换。把注意力放在自己的身体感受上。",
+    "durationMinutes": 4,
+    "energyValue": 24,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "盯着窗外的云发呆 3分钟",
+    "description": "允许自己大脑完全空白。什么都不想，只是单纯地“存在”一会儿。",
+    "durationMinutes": 1,
+    "energyValue": 19,
+    "targetAudience": [
+      "资深打工人",
+      "年轻父母"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "给老乡发一句突然想起你了",
+    "description": "打开微信，找到那个躺在列表里的人，发一句简单的问候。不需要长篇大论，一句话就能建立一次温暖的连接。",
+    "durationMinutes": 1,
+    "energyValue": 21,
+    "targetAudience": [
+      "大学生",
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通用"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "怀旧",
+      "治愈",
+      "活跃"
+    ]
+  },
+  {
+    "title": "给初中死党发一句周末开黑吗",
+    "description": "打开微信，找到那个躺在列表里的人，发一句简单的问候。不需要长篇大论，一句话就能建立一次温暖的连接。",
+    "durationMinutes": 4,
+    "energyValue": 11,
+    "targetAudience": [
+      "大学生",
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通用"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "怀旧",
+      "治愈",
+      "活跃"
+    ]
+  },
+  {
+    "title": "给老乡发一句突然想起你了",
+    "description": "打开微信，找到那个躺在列表里的人，发一句简单的问候。不需要长篇大论，一句话就能建立一次温暖的连接。",
+    "durationMinutes": 3,
+    "energyValue": 19,
+    "targetAudience": [
+      "大学生",
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通用"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "怀旧",
+      "治愈",
+      "活跃"
+    ]
+  },
+  {
+    "title": "给另一半发一张以前的合照",
+    "description": "在柴米油盐和带娃的兵荒马乱中，找回一点属于两个人的连接。",
+    "durationMinutes": 2,
+    "energyValue": 13,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前",
+      "工作间隙"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "计划明天晚上的一场电影",
+    "description": "给自己设定一个小小的盼头。有了期待，当下的枯燥也会变得容易忍受一些。",
+    "durationMinutes": 1,
+    "energyValue": 20,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "计划一件这个周末只属于自己的电影",
+    "description": "不要总是围着家庭转，把自己的需求放在第一位一次。",
+    "durationMinutes": 1,
+    "energyValue": 13,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "成就感"
+    ]
+  },
+  {
+    "title": "给大学室友发一句最近怎么样",
+    "description": "打开微信，找到那个躺在列表里的人，发一句简单的问候。不需要长篇大论，一句话就能建立一次温暖的连接。",
+    "durationMinutes": 3,
+    "energyValue": 10,
+    "targetAudience": [
+      "大学生",
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通用"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "怀旧",
+      "治愈",
+      "活跃"
+    ]
+  },
+  {
+    "title": "躲在卧室 深呼吸3次",
+    "description": "给自己争取一点绝对的独处时间。把门外的喧闹关掉，现在你只是你自己。",
+    "durationMinutes": 1,
+    "energyValue": 21,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "独处",
+      "工作间隙"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "安静"
+    ]
+  },
+  {
+    "title": "扔掉桌上的垃圾",
+    "description": "物理空间的清理能带来立竿见影的爽快感。动动手，马上就能看到改变。",
+    "durationMinutes": 3,
+    "energyValue": 16,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "关闭朋友圈的红点提醒",
+    "description": "夺回注意力的控制权。世界不会因为你晚回了几分钟消息而崩塌。",
+    "durationMinutes": 4,
+    "energyValue": 18,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "安静"
+    ]
+  },
+  {
+    "title": "回想今天最搞笑的一个瞬间",
+    "description": "关掉屏幕，闭上眼睛复盘一下。哪怕只是“今天外卖送得很准时”也可以。",
+    "durationMinutes": 4,
+    "energyValue": 13,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤",
+      "独处"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "治愈"
+    ]
+  },
+  {
+    "title": "回想今天学到新东西的一个瞬间",
+    "description": "关掉屏幕，闭上眼睛复盘一下。哪怕只是“今天外卖送得很准时”也可以。",
+    "durationMinutes": 1,
+    "energyValue": 10,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤",
+      "独处"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "治愈"
+    ]
+  },
+  {
+    "title": "删掉3个无用群聊",
+    "description": "数字极简主义。清理掉无用的信息垃圾，手机和大脑都会变得更轻盈。",
+    "durationMinutes": 1,
+    "energyValue": 23,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "通用"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "整理专业课笔记",
+    "description": "花几分钟时间，把杂乱的信息归类。物理或数字空间的秩序感，能极大缓解内心的焦虑。",
+    "durationMinutes": 2,
+    "energyValue": 20,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "计划一件明天中午只属于自己的购物",
+    "description": "不要总是围着家庭转，把自己的需求放在第一位一次。",
+    "durationMinutes": 3,
+    "energyValue": 21,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "成就感"
+    ]
+  },
+  {
+    "title": "感受自己的呼吸 2分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 2,
+    "energyValue": 20,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "计划一件下周只属于自己的零食时间",
+    "description": "不要总是围着家庭转，把自己的需求放在第一位一次。",
+    "durationMinutes": 4,
+    "energyValue": 19,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "成就感"
+    ]
+  },
+  {
+    "title": "感受椅子的支撑力 2分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 4,
+    "energyValue": 19,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "盯着窗外的云发呆 2分钟",
+    "description": "允许自己大脑完全空白。什么都不想，只是单纯地“存在”一会儿。",
+    "durationMinutes": 3,
+    "energyValue": 22,
+    "targetAudience": [
+      "资深打工人",
+      "年轻父母"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "清理邮件收件箱",
+    "description": "把那些“以后可能会看”但其实再也没看过的东西删掉。承认自己看不完，也是一种解脱。",
+    "durationMinutes": 1,
+    "energyValue": 21,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "删掉3个无用群聊",
+    "description": "数字极简主义。清理掉无用的信息垃圾，手机和大脑都会变得更轻盈。",
+    "durationMinutes": 4,
+    "energyValue": 17,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "通用"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "翻看孩子刚出生时的照片",
+    "description": "在相册里搜索回忆。看看那个小小的生命，找回最初的感动和力量。",
+    "durationMinutes": 4,
+    "energyValue": 15,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "关闭朋友圈的消息通知",
+    "description": "夺回注意力的控制权。世界不会因为你晚回了几分钟消息而崩塌。",
+    "durationMinutes": 1,
+    "energyValue": 14,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "安静"
+    ]
+  },
+  {
+    "title": "清理过期的待办事项",
+    "description": "把那些“以后可能会看”但其实再也没看过的东西删掉。承认自己看不完，也是一种解脱。",
+    "durationMinutes": 4,
+    "energyValue": 12,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "感受手心的温度 2分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 3,
+    "energyValue": 11,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "计划一件这个周末只属于自己的小事",
+    "description": "不要总是围着家庭转，把自己的需求放在第一位一次。",
+    "durationMinutes": 3,
+    "energyValue": 17,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "成就感"
+    ]
+  },
+  {
+    "title": "去楼梯间做喝一杯温水",
+    "description": "离开工位，物理上的转移能带来心理上的切换。把注意力放在自己的身体感受上。",
+    "durationMinutes": 4,
+    "energyValue": 11,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "给辅导员发一句最近怎么样",
+    "description": "打开微信，找到那个躺在列表里的人，发一句简单的问候。不需要长篇大论，一句话就能建立一次温暖的连接。",
+    "durationMinutes": 3,
+    "energyValue": 11,
+    "targetAudience": [
+      "大学生",
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通用"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "怀旧",
+      "治愈",
+      "活跃"
+    ]
+  },
+  {
+    "title": "给前公司的HR发一句辛苦了",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 4,
+    "energyValue": 17,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "预定明天的下午茶",
+    "description": "用一点小小的物质奖励，犒劳辛苦工作的自己。给明天留一个具体的期待。",
+    "durationMinutes": 3,
+    "energyValue": 10,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "写下关于社团活动的最坏的打算",
+    "description": "打开备忘录，把脑子里乱糟糟的想法写下来。写出来，它就不再是一团迷雾了。",
+    "durationMinutes": 4,
+    "energyValue": 16,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "创作表达",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "删掉重复的照片",
+    "description": "数字极简主义。清理掉无用的信息垃圾，手机和大脑都会变得更轻盈。",
+    "durationMinutes": 2,
+    "energyValue": 23,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "通用"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "揉压肩膀 2分钟",
+    "description": "放下手机，闭上眼睛，用双手感受肌肉的紧绷，然后慢慢让它放松下来。",
+    "durationMinutes": 3,
+    "energyValue": 17,
+    "targetAudience": [
+      "资深打工人",
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "计划一件这个周末只属于自己的购物",
+    "description": "不要总是围着家庭转，把自己的需求放在第一位一次。",
+    "durationMinutes": 4,
+    "energyValue": 12,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "成就感"
+    ]
+  },
+  {
+    "title": "感受自己的呼吸 1分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 2,
+    "energyValue": 24,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "深呼吸 5次",
+    "description": "把注意力从屏幕转移到身体上。感受肌肉的拉伸和血液的流动。",
+    "durationMinutes": 4,
+    "energyValue": 20,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前",
+      "通用"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "感受自己的呼吸 1分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 1,
+    "energyValue": 12,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "揉压眼睛 1分钟",
+    "description": "放下手机，闭上眼睛，用双手感受肌肉的紧绷，然后慢慢让它放松下来。",
+    "durationMinutes": 2,
+    "energyValue": 20,
+    "targetAudience": [
+      "资深打工人",
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "删掉3个无用群聊",
+    "description": "数字极简主义。清理掉无用的信息垃圾，手机和大脑都会变得更轻盈。",
+    "durationMinutes": 1,
+    "energyValue": 21,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "通用"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "躲在洗手间 闭眼休息1分钟",
+    "description": "给自己争取一点绝对的独处时间。把门外的喧闹关掉，现在你只是你自己。",
+    "durationMinutes": 2,
+    "energyValue": 18,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "独处",
+      "工作间隙"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "安静"
+    ]
+  },
+  {
+    "title": "盯着远处的建筑发呆 2分钟",
+    "description": "允许自己大脑完全空白。什么都不想，只是单纯地“存在”一会儿。",
+    "durationMinutes": 2,
+    "energyValue": 12,
+    "targetAudience": [
+      "资深打工人",
+      "年轻父母"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "关闭不重要的闲聊群的弹窗",
+    "description": "夺回注意力的控制权。世界不会因为你晚回了几分钟消息而崩塌。",
+    "durationMinutes": 2,
+    "energyValue": 22,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "安静"
+    ]
+  },
+  {
+    "title": "翻看孩子满月时的照片",
+    "description": "在相册里搜索回忆。看看那个小小的生命，找回最初的感动和力量。",
+    "durationMinutes": 3,
+    "energyValue": 17,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "扔掉过期的票据",
+    "description": "物理空间的清理能带来立竿见影的爽快感。动动手，马上就能看到改变。",
+    "durationMinutes": 1,
+    "energyValue": 16,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "去茶水间做伸个懒腰",
+    "description": "离开工位，物理上的转移能带来心理上的切换。把注意力放在自己的身体感受上。",
+    "durationMinutes": 4,
+    "energyValue": 25,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "给大学室友发一句周末开黑吗",
+    "description": "打开微信，找到那个躺在列表里的人，发一句简单的问候。不需要长篇大论，一句话就能建立一次温暖的连接。",
+    "durationMinutes": 2,
+    "energyValue": 12,
+    "targetAudience": [
+      "大学生",
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通用"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "怀旧",
+      "治愈",
+      "活跃"
+    ]
+  },
+  {
+    "title": "删掉5个不看的公众号",
+    "description": "数字极简主义。清理掉无用的信息垃圾，手机和大脑都会变得更轻盈。",
+    "durationMinutes": 2,
+    "energyValue": 13,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "通用"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "给帮忙的开发发一句辛苦了",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 1,
+    "energyValue": 10,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "去楼梯间做伸个懒腰",
+    "description": "离开工位，物理上的转移能带来心理上的切换。把注意力放在自己的身体感受上。",
+    "durationMinutes": 2,
+    "energyValue": 13,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "揉压眼睛 30秒",
+    "description": "放下手机，闭上眼睛，用双手感受肌肉的紧绷，然后慢慢让它放松下来。",
+    "durationMinutes": 3,
+    "energyValue": 10,
+    "targetAudience": [
+      "资深打工人",
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "关闭朋友圈的消息通知",
+    "description": "夺回注意力的控制权。世界不会因为你晚回了几分钟消息而崩塌。",
+    "durationMinutes": 2,
+    "energyValue": 19,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "安静"
+    ]
+  },
+  {
+    "title": "给同期入职的同事发一句感谢",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 1,
+    "energyValue": 22,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "计划一件明天中午只属于自己的小事",
+    "description": "不要总是围着家庭转，把自己的需求放在第一位一次。",
+    "durationMinutes": 1,
+    "energyValue": 15,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "成就感"
+    ]
+  },
+  {
+    "title": "给同期入职的同事发一句感谢",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 4,
+    "energyValue": 21,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "计划明天晚上的一顿大餐",
+    "description": "给自己设定一个小小的盼头。有了期待，当下的枯燥也会变得容易忍受一些。",
+    "durationMinutes": 2,
+    "energyValue": 25,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "写下关于人际关系的三个担忧",
+    "description": "打开备忘录，把脑子里乱糟糟的想法写下来。写出来，它就不再是一团迷雾了。",
+    "durationMinutes": 3,
+    "energyValue": 21,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "创作表达",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "预定明天的一束鲜花",
+    "description": "用一点小小的物质奖励，犒劳辛苦工作的自己。给明天留一个具体的期待。",
+    "durationMinutes": 2,
+    "energyValue": 16,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "盯着水杯里的水发呆 1分钟",
+    "description": "允许自己大脑完全空白。什么都不想，只是单纯地“存在”一会儿。",
+    "durationMinutes": 4,
+    "energyValue": 17,
+    "targetAudience": [
+      "资深打工人",
+      "年轻父母"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "给社团学长发一句周末开黑吗",
+    "description": "打开微信，找到那个躺在列表里的人，发一句简单的问候。不需要长篇大论，一句话就能建立一次温暖的连接。",
+    "durationMinutes": 3,
+    "energyValue": 17,
+    "targetAudience": [
+      "大学生",
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通用"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "怀旧",
+      "治愈",
+      "活跃"
+    ]
+  },
+  {
+    "title": "躲在卧室 什么都不做发呆",
+    "description": "给自己争取一点绝对的独处时间。把门外的喧闹关掉，现在你只是你自己。",
+    "durationMinutes": 4,
+    "energyValue": 10,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "独处",
+      "工作间隙"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "安静"
+    ]
+  },
+  {
+    "title": "揉压手腕 2分钟",
+    "description": "放下手机，闭上眼睛，用双手感受肌肉的紧绷，然后慢慢让它放松下来。",
+    "durationMinutes": 1,
+    "energyValue": 23,
+    "targetAudience": [
+      "资深打工人",
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "计划一件下周只属于自己的小事",
+    "description": "不要总是围着家庭转，把自己的需求放在第一位一次。",
+    "durationMinutes": 3,
+    "energyValue": 21,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "成就感"
+    ]
+  },
+  {
+    "title": "感受周围环境的声音 2分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 2,
+    "energyValue": 14,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "深呼吸 3次",
+    "description": "把注意力从屏幕转移到身体上。感受肌肉的拉伸和血液的流动。",
+    "durationMinutes": 4,
+    "energyValue": 25,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前",
+      "通用"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "计划一件下周只属于自己的电影",
+    "description": "不要总是围着家庭转，把自己的需求放在第一位一次。",
+    "durationMinutes": 1,
+    "energyValue": 13,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "成就感"
+    ]
+  },
+  {
+    "title": "给另一半发问晚上吃啥",
+    "description": "在柴米油盐和带娃的兵荒马乱中，找回一点属于两个人的连接。",
+    "durationMinutes": 4,
+    "energyValue": 11,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前",
+      "工作间隙"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "盯着窗外的云发呆 3分钟",
+    "description": "允许自己大脑完全空白。什么都不想，只是单纯地“存在”一会儿。",
+    "durationMinutes": 1,
+    "energyValue": 21,
+    "targetAudience": [
+      "资深打工人",
+      "年轻父母"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "盯着自己的手心发呆 1分钟",
+    "description": "允许自己大脑完全空白。什么都不想，只是单纯地“存在”一会儿。",
+    "durationMinutes": 3,
+    "energyValue": 16,
+    "targetAudience": [
+      "资深打工人",
+      "年轻父母"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "闭眼休息 1分钟",
+    "description": "把注意力从屏幕转移到身体上。感受肌肉的拉伸和血液的流动。",
+    "durationMinutes": 4,
+    "energyValue": 15,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前",
+      "通用"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "扔掉没用的包装盒",
+    "description": "物理空间的清理能带来立竿见影的爽快感。动动手，马上就能看到改变。",
+    "durationMinutes": 4,
+    "energyValue": 12,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "清理邮件收件箱",
+    "description": "把那些“以后可能会看”但其实再也没看过的东西删掉。承认自己看不完，也是一种解脱。",
+    "durationMinutes": 3,
+    "energyValue": 16,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "躲在厨房 深呼吸3次",
+    "description": "给自己争取一点绝对的独处时间。把门外的喧闹关掉，现在你只是你自己。",
+    "durationMinutes": 3,
+    "energyValue": 12,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "独处",
+      "工作间隙"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "安静"
+    ]
+  },
+  {
+    "title": "扔掉没用的包装盒",
+    "description": "物理空间的清理能带来立竿见影的爽快感。动动手，马上就能看到改变。",
+    "durationMinutes": 3,
+    "energyValue": 22,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "关闭朋友圈的弹窗",
+    "description": "夺回注意力的控制权。世界不会因为你晚回了几分钟消息而崩塌。",
+    "durationMinutes": 2,
+    "energyValue": 25,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "安静"
+    ]
+  },
+  {
+    "title": "写下关于未来就业的最坏的打算",
+    "description": "打开备忘录，把脑子里乱糟糟的想法写下来。写出来，它就不再是一团迷雾了。",
+    "durationMinutes": 2,
+    "energyValue": 17,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "创作表达",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "计划考完试后的一顿大餐",
+    "description": "给自己设定一个小小的盼头。有了期待，当下的枯燥也会变得容易忍受一些。",
+    "durationMinutes": 3,
+    "energyValue": 25,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "扔掉过期的票据",
+    "description": "物理空间的清理能带来立竿见影的爽快感。动动手，马上就能看到改变。",
+    "durationMinutes": 3,
+    "energyValue": 23,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "给辅导员发一句分享个搞笑视频",
+    "description": "打开微信，找到那个躺在列表里的人，发一句简单的问候。不需要长篇大论，一句话就能建立一次温暖的连接。",
+    "durationMinutes": 2,
+    "energyValue": 14,
+    "targetAudience": [
+      "大学生",
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通用"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "怀旧",
+      "治愈",
+      "活跃"
+    ]
+  },
+  {
+    "title": "翻看孩子刚出生时的照片",
+    "description": "在相册里搜索回忆。看看那个小小的生命，找回最初的感动和力量。",
+    "durationMinutes": 1,
+    "energyValue": 21,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "计划一件今晚等娃睡了只属于自己的电影",
+    "description": "不要总是围着家庭转，把自己的需求放在第一位一次。",
+    "durationMinutes": 4,
+    "energyValue": 18,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "成就感"
+    ]
+  },
+  {
+    "title": "整理专业课笔记",
+    "description": "花几分钟时间，把杂乱的信息归类。物理或数字空间的秩序感，能极大缓解内心的焦虑。",
+    "durationMinutes": 3,
+    "energyValue": 19,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "给另一半发问晚上吃啥",
+    "description": "在柴米油盐和带娃的兵荒马乱中，找回一点属于两个人的连接。",
+    "durationMinutes": 1,
+    "energyValue": 25,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前",
+      "工作间隙"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "回想今天最无语的一件事",
+    "description": "关掉屏幕，闭上眼睛复盘一下。哪怕只是“今天外卖送得很准时”也可以。",
+    "durationMinutes": 1,
+    "energyValue": 18,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤",
+      "独处"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "治愈"
+    ]
+  },
+  {
+    "title": "躲在洗手间 深呼吸3次",
+    "description": "给自己争取一点绝对的独处时间。把门外的喧闹关掉，现在你只是你自己。",
+    "durationMinutes": 1,
+    "energyValue": 14,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "独处",
+      "工作间隙"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "安静"
+    ]
+  },
+  {
+    "title": "活动脚踝 3次",
+    "description": "把注意力从屏幕转移到身体上。感受肌肉的拉伸和血液的流动。",
+    "durationMinutes": 3,
+    "energyValue": 10,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前",
+      "通用"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "预定明天的一杯冰美式",
+    "description": "用一点小小的物质奖励，犒劳辛苦工作的自己。给明天留一个具体的期待。",
+    "durationMinutes": 3,
+    "energyValue": 14,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "整理电脑桌面",
+    "description": "花几分钟时间，把杂乱的信息归类。物理或数字空间的秩序感，能极大缓解内心的焦虑。",
+    "durationMinutes": 4,
+    "energyValue": 10,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "给大学室友发一句推荐一首歌",
+    "description": "打开微信，找到那个躺在列表里的人，发一句简单的问候。不需要长篇大论，一句话就能建立一次温暖的连接。",
+    "durationMinutes": 4,
+    "energyValue": 23,
+    "targetAudience": [
+      "大学生",
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通用"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "怀旧",
+      "治愈",
+      "活跃"
+    ]
+  },
+  {
+    "title": "计划下周的一次周边游",
+    "description": "给自己设定一个小小的盼头。有了期待，当下的枯燥也会变得容易忍受一些。",
+    "durationMinutes": 2,
+    "energyValue": 19,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "给同期入职的同事发一句感谢",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 4,
+    "energyValue": 21,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "关闭朋友圈的弹窗",
+    "description": "夺回注意力的控制权。世界不会因为你晚回了几分钟消息而崩塌。",
+    "durationMinutes": 2,
+    "energyValue": 11,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "安静"
+    ]
+  },
+  {
+    "title": "整理错题本",
+    "description": "花几分钟时间，把杂乱的信息归类。物理或数字空间的秩序感，能极大缓解内心的焦虑。",
+    "durationMinutes": 3,
+    "energyValue": 18,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "清理下载文件夹",
+    "description": "把那些“以后可能会看”但其实再也没看过的东西删掉。承认自己看不完，也是一种解脱。",
+    "durationMinutes": 3,
+    "energyValue": 16,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "感受手心的温度 2分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 1,
+    "energyValue": 13,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "写下关于人际关系的一句吐槽",
+    "description": "打开备忘录，把脑子里乱糟糟的想法写下来。写出来，它就不再是一团迷雾了。",
+    "durationMinutes": 3,
+    "energyValue": 10,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "创作表达",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "躲在洗手间 听一首喜欢的歌",
+    "description": "给自己争取一点绝对的独处时间。把门外的喧闹关掉，现在你只是你自己。",
+    "durationMinutes": 4,
+    "energyValue": 10,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "独处",
+      "工作间隙"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "安静"
+    ]
+  },
+  {
+    "title": "给合作过的设计发一句点赞",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 3,
+    "energyValue": 23,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "计划一件这个周末只属于自己的零食时间",
+    "description": "不要总是围着家庭转，把自己的需求放在第一位一次。",
+    "durationMinutes": 4,
+    "energyValue": 12,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "成就感"
+    ]
+  },
+  {
+    "title": "关闭工作群的消息通知",
+    "description": "夺回注意力的控制权。世界不会因为你晚回了几分钟消息而崩塌。",
+    "durationMinutes": 4,
+    "energyValue": 21,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "安静"
+    ]
+  },
+  {
+    "title": "躲在洗手间 深呼吸3次",
+    "description": "给自己争取一点绝对的独处时间。把门外的喧闹关掉，现在你只是你自己。",
+    "durationMinutes": 3,
+    "energyValue": 24,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "独处",
+      "工作间隙"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "安静"
+    ]
+  },
+  {
+    "title": "扔掉写废的草稿纸",
+    "description": "物理空间的清理能带来立竿见影的爽快感。动动手，马上就能看到改变。",
+    "durationMinutes": 4,
+    "energyValue": 16,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "扔掉写废的草稿纸",
+    "description": "物理空间的清理能带来立竿见影的爽快感。动动手，马上就能看到改变。",
+    "durationMinutes": 2,
+    "energyValue": 23,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "翻看孩子第一次走路的照片",
+    "description": "在相册里搜索回忆。看看那个小小的生命，找回最初的感动和力量。",
+    "durationMinutes": 1,
+    "energyValue": 22,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "预定明天的健康午餐",
+    "description": "用一点小小的物质奖励，犒劳辛苦工作的自己。给明天留一个具体的期待。",
+    "durationMinutes": 4,
+    "energyValue": 24,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "整理书包",
+    "description": "花几分钟时间，把杂乱的信息归类。物理或数字空间的秩序感，能极大缓解内心的焦虑。",
+    "durationMinutes": 1,
+    "energyValue": 20,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "预定明天的一杯冰美式",
+    "description": "用一点小小的物质奖励，犒劳辛苦工作的自己。给明天留一个具体的期待。",
+    "durationMinutes": 4,
+    "energyValue": 25,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "翻看孩子满月时的照片",
+    "description": "在相册里搜索回忆。看看那个小小的生命，找回最初的感动和力量。",
+    "durationMinutes": 3,
+    "energyValue": 15,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "扔掉没用的包装盒",
+    "description": "物理空间的清理能带来立竿见影的爽快感。动动手，马上就能看到改变。",
+    "durationMinutes": 3,
+    "energyValue": 24,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "给同期入职的同事发一句点赞",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 4,
+    "energyValue": 13,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "揉压颈椎 1分钟",
+    "description": "放下手机，闭上眼睛，用双手感受肌肉的紧绷，然后慢慢让它放松下来。",
+    "durationMinutes": 3,
+    "energyValue": 12,
+    "targetAudience": [
+      "资深打工人",
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "计划一件下周只属于自己的购物",
+    "description": "不要总是围着家庭转，把自己的需求放在第一位一次。",
+    "durationMinutes": 3,
+    "energyValue": 16,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "成就感"
+    ]
+  },
+  {
+    "title": "感受椅子的支撑力 2分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 3,
+    "energyValue": 22,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "给大学室友发一句推荐一首歌",
+    "description": "打开微信，找到那个躺在列表里的人，发一句简单的问候。不需要长篇大论，一句话就能建立一次温暖的连接。",
+    "durationMinutes": 4,
+    "energyValue": 11,
+    "targetAudience": [
+      "大学生",
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通用"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "怀旧",
+      "治愈",
+      "活跃"
+    ]
+  },
+  {
+    "title": "深呼吸 3次",
+    "description": "把注意力从屏幕转移到身体上。感受肌肉的拉伸和血液的流动。",
+    "durationMinutes": 3,
+    "energyValue": 22,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前",
+      "通用"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "整理错题本",
+    "description": "花几分钟时间，把杂乱的信息归类。物理或数字空间的秩序感，能极大缓解内心的焦虑。",
+    "durationMinutes": 4,
+    "energyValue": 13,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "翻看孩子最搞笑瞬间的照片",
+    "description": "在相册里搜索回忆。看看那个小小的生命，找回最初的感动和力量。",
+    "durationMinutes": 4,
+    "energyValue": 13,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "写下关于人际关系的最坏的打算",
+    "description": "打开备忘录，把脑子里乱糟糟的想法写下来。写出来，它就不再是一团迷雾了。",
+    "durationMinutes": 1,
+    "energyValue": 10,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "创作表达",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "给另一半发一个搞笑视频",
+    "description": "在柴米油盐和带娃的兵荒马乱中，找回一点属于两个人的连接。",
+    "durationMinutes": 3,
+    "energyValue": 13,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前",
+      "工作间隙"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "整理错题本",
+    "description": "花几分钟时间，把杂乱的信息归类。物理或数字空间的秩序感，能极大缓解内心的焦虑。",
+    "durationMinutes": 4,
+    "energyValue": 18,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "揉压手腕 30秒",
+    "description": "放下手机，闭上眼睛，用双手感受肌肉的紧绷，然后慢慢让它放松下来。",
+    "durationMinutes": 2,
+    "energyValue": 15,
+    "targetAudience": [
+      "资深打工人",
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "盯着水杯里的水发呆 3分钟",
+    "description": "允许自己大脑完全空白。什么都不想，只是单纯地“存在”一会儿。",
+    "durationMinutes": 3,
+    "energyValue": 15,
+    "targetAudience": [
+      "资深打工人",
+      "年轻父母"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "给老乡发一句最近怎么样",
+    "description": "打开微信，找到那个躺在列表里的人，发一句简单的问候。不需要长篇大论，一句话就能建立一次温暖的连接。",
+    "durationMinutes": 3,
+    "energyValue": 18,
+    "targetAudience": [
+      "大学生",
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通用"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "怀旧",
+      "治愈",
+      "活跃"
+    ]
+  },
+  {
+    "title": "翻看孩子满月时的照片",
+    "description": "在相册里搜索回忆。看看那个小小的生命，找回最初的感动和力量。",
+    "durationMinutes": 4,
+    "energyValue": 16,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "回想今天最无语的一句话",
+    "description": "关掉屏幕，闭上眼睛复盘一下。哪怕只是“今天外卖送得很准时”也可以。",
+    "durationMinutes": 1,
+    "energyValue": 22,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤",
+      "独处"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "治愈"
+    ]
+  },
+  {
+    "title": "回想今天最无语的一句话",
+    "description": "关掉屏幕，闭上眼睛复盘一下。哪怕只是“今天外卖送得很准时”也可以。",
+    "durationMinutes": 2,
+    "energyValue": 18,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤",
+      "独处"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "治愈"
+    ]
+  },
+  {
+    "title": "翻看孩子刚出生时的照片",
+    "description": "在相册里搜索回忆。看看那个小小的生命，找回最初的感动和力量。",
+    "durationMinutes": 3,
+    "energyValue": 18,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "回想今天学到新东西的一件事",
+    "description": "关掉屏幕，闭上眼睛复盘一下。哪怕只是“今天外卖送得很准时”也可以。",
+    "durationMinutes": 2,
+    "energyValue": 11,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤",
+      "独处"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "治愈"
+    ]
+  },
+  {
+    "title": "计划这个周末的一顿大餐",
+    "description": "给自己设定一个小小的盼头。有了期待，当下的枯燥也会变得容易忍受一些。",
+    "durationMinutes": 3,
+    "energyValue": 23,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "翻看孩子一岁生日的照片",
+    "description": "在相册里搜索回忆。看看那个小小的生命，找回最初的感动和力量。",
+    "durationMinutes": 3,
+    "energyValue": 18,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "清理邮件收件箱",
+    "description": "把那些“以后可能会看”但其实再也没看过的东西删掉。承认自己看不完，也是一种解脱。",
+    "durationMinutes": 4,
+    "energyValue": 10,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "活动脚踝 1分钟",
+    "description": "把注意力从屏幕转移到身体上。感受肌肉的拉伸和血液的流动。",
+    "durationMinutes": 3,
+    "energyValue": 21,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前",
+      "通用"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "揉压肩膀 2分钟",
+    "description": "放下手机，闭上眼睛，用双手感受肌肉的紧绷，然后慢慢让它放松下来。",
+    "durationMinutes": 2,
+    "energyValue": 17,
+    "targetAudience": [
+      "资深打工人",
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "清理邮件收件箱",
+    "description": "把那些“以后可能会看”但其实再也没看过的东西删掉。承认自己看不完，也是一种解脱。",
+    "durationMinutes": 3,
+    "energyValue": 11,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "给帮忙的开发发一句点赞",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 4,
+    "energyValue": 18,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "去楼梯间做伸个懒腰",
+    "description": "离开工位，物理上的转移能带来心理上的切换。把注意力放在自己的身体感受上。",
+    "durationMinutes": 3,
+    "energyValue": 12,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "给另一半发问晚上吃啥",
+    "description": "在柴米油盐和带娃的兵荒马乱中，找回一点属于两个人的连接。",
+    "durationMinutes": 2,
+    "energyValue": 21,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前",
+      "工作间隙"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "翻看孩子刚出生时的照片",
+    "description": "在相册里搜索回忆。看看那个小小的生命，找回最初的感动和力量。",
+    "durationMinutes": 3,
+    "energyValue": 17,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "揉压颈椎 2分钟",
+    "description": "放下手机，闭上眼睛，用双手感受肌肉的紧绷，然后慢慢让它放松下来。",
+    "durationMinutes": 3,
+    "energyValue": 22,
+    "targetAudience": [
+      "资深打工人",
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "清理邮件收件箱",
+    "description": "把那些“以后可能会看”但其实再也没看过的东西删掉。承认自己看不完，也是一种解脱。",
+    "durationMinutes": 3,
+    "energyValue": 21,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "拉伸背部 1分钟",
+    "description": "把注意力从屏幕转移到身体上。感受肌肉的拉伸和血液的流动。",
+    "durationMinutes": 4,
+    "energyValue": 17,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前",
+      "通用"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "删掉10张没用的截图",
+    "description": "数字极简主义。清理掉无用的信息垃圾，手机和大脑都会变得更轻盈。",
+    "durationMinutes": 1,
+    "energyValue": 20,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "通用"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "感受自己的呼吸 1分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 1,
+    "energyValue": 15,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "扔掉干枯的叶子",
+    "description": "物理空间的清理能带来立竿见影的爽快感。动动手，马上就能看到改变。",
+    "durationMinutes": 4,
+    "energyValue": 24,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "给合作过的设计发一句辛苦了",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 1,
+    "energyValue": 11,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "闭眼休息 3次",
+    "description": "把注意力从屏幕转移到身体上。感受肌肉的拉伸和血液的流动。",
+    "durationMinutes": 4,
+    "energyValue": 23,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前",
+      "通用"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "翻看孩子第一次走路的照片",
+    "description": "在相册里搜索回忆。看看那个小小的生命，找回最初的感动和力量。",
+    "durationMinutes": 2,
+    "energyValue": 17,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "深呼吸 5次",
+    "description": "把注意力从屏幕转移到身体上。感受肌肉的拉伸和血液的流动。",
+    "durationMinutes": 4,
+    "energyValue": 17,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前",
+      "通用"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "给辅导员发一句周末开黑吗",
+    "description": "打开微信，找到那个躺在列表里的人，发一句简单的问候。不需要长篇大论，一句话就能建立一次温暖的连接。",
+    "durationMinutes": 4,
+    "energyValue": 16,
+    "targetAudience": [
+      "大学生",
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通用"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "怀旧",
+      "治愈",
+      "活跃"
+    ]
+  },
+  {
+    "title": "感受椅子的支撑力 1分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 1,
+    "energyValue": 12,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "扔掉过期的票据",
+    "description": "物理空间的清理能带来立竿见影的爽快感。动动手，马上就能看到改变。",
+    "durationMinutes": 2,
+    "energyValue": 14,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "给另一半发一个爱心表情",
+    "description": "在柴米油盐和带娃的兵荒马乱中，找回一点属于两个人的连接。",
+    "durationMinutes": 3,
+    "energyValue": 17,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前",
+      "工作间隙"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "扔掉没用的包装盒",
+    "description": "物理空间的清理能带来立竿见影的爽快感。动动手，马上就能看到改变。",
+    "durationMinutes": 3,
+    "energyValue": 24,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "预定明天的一杯冰美式",
+    "description": "用一点小小的物质奖励，犒劳辛苦工作的自己。给明天留一个具体的期待。",
+    "durationMinutes": 4,
+    "energyValue": 19,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "扔掉写废的草稿纸",
+    "description": "物理空间的清理能带来立竿见影的爽快感。动动手，马上就能看到改变。",
+    "durationMinutes": 3,
+    "energyValue": 18,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "清理微信文件传输助手",
+    "description": "把那些“以后可能会看”但其实再也没看过的东西删掉。承认自己看不完，也是一种解脱。",
+    "durationMinutes": 1,
+    "energyValue": 20,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "给另一半发一个搞笑视频",
+    "description": "在柴米油盐和带娃的兵荒马乱中，找回一点属于两个人的连接。",
+    "durationMinutes": 2,
+    "energyValue": 21,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前",
+      "工作间隙"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "计划一件下周只属于自己的零食时间",
+    "description": "不要总是围着家庭转，把自己的需求放在第一位一次。",
+    "durationMinutes": 4,
+    "energyValue": 22,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "成就感"
+    ]
+  },
+  {
+    "title": "给前公司的HR发一句辛苦了",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 3,
+    "energyValue": 25,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "翻看孩子一岁生日的照片",
+    "description": "在相册里搜索回忆。看看那个小小的生命，找回最初的感动和力量。",
+    "durationMinutes": 1,
+    "energyValue": 18,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "活动脚踝 3次",
+    "description": "把注意力从屏幕转移到身体上。感受肌肉的拉伸和血液的流动。",
+    "durationMinutes": 2,
+    "energyValue": 25,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前",
+      "通用"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "计划明天晚上的一场电影",
+    "description": "给自己设定一个小小的盼头。有了期待，当下的枯燥也会变得容易忍受一些。",
+    "durationMinutes": 4,
+    "energyValue": 13,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "预定明天的一杯冰美式",
+    "description": "用一点小小的物质奖励，犒劳辛苦工作的自己。给明天留一个具体的期待。",
+    "durationMinutes": 3,
+    "energyValue": 12,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "去茶水间做喝一杯温水",
+    "description": "离开工位，物理上的转移能带来心理上的切换。把注意力放在自己的身体感受上。",
+    "durationMinutes": 2,
+    "energyValue": 13,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "计划一件下周只属于自己的购物",
+    "description": "不要总是围着家庭转，把自己的需求放在第一位一次。",
+    "durationMinutes": 4,
+    "energyValue": 22,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "成就感"
+    ]
+  },
+  {
+    "title": "扔掉干枯的叶子",
+    "description": "物理空间的清理能带来立竿见影的爽快感。动动手，马上就能看到改变。",
+    "durationMinutes": 4,
+    "energyValue": 22,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "感受脚踩在地上的感觉 1分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 1,
+    "energyValue": 18,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "回想今天学到新东西的一句话",
+    "description": "关掉屏幕，闭上眼睛复盘一下。哪怕只是“今天外卖送得很准时”也可以。",
+    "durationMinutes": 2,
+    "energyValue": 16,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤",
+      "独处"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "治愈"
+    ]
+  },
+  {
+    "title": "删掉3个无用群聊",
+    "description": "数字极简主义。清理掉无用的信息垃圾，手机和大脑都会变得更轻盈。",
+    "durationMinutes": 4,
+    "energyValue": 13,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "通用"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "盯着桌上的绿植发呆 3分钟",
+    "description": "允许自己大脑完全空白。什么都不想，只是单纯地“存在”一会儿。",
+    "durationMinutes": 1,
+    "energyValue": 25,
+    "targetAudience": [
+      "资深打工人",
+      "年轻父母"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "删掉3个无用群聊",
+    "description": "数字极简主义。清理掉无用的信息垃圾，手机和大脑都会变得更轻盈。",
+    "durationMinutes": 3,
+    "energyValue": 17,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "通用"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "整理电脑桌面",
+    "description": "花几分钟时间，把杂乱的信息归类。物理或数字空间的秩序感，能极大缓解内心的焦虑。",
+    "durationMinutes": 1,
+    "energyValue": 19,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "计划这个周末的一次懒觉",
+    "description": "给自己设定一个小小的盼头。有了期待，当下的枯燥也会变得容易忍受一些。",
+    "durationMinutes": 4,
+    "energyValue": 12,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "盯着自己的手心发呆 2分钟",
+    "description": "允许自己大脑完全空白。什么都不想，只是单纯地“存在”一会儿。",
+    "durationMinutes": 2,
+    "energyValue": 23,
+    "targetAudience": [
+      "资深打工人",
+      "年轻父母"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "计划一件今晚等娃睡了只属于自己的购物",
+    "description": "不要总是围着家庭转，把自己的需求放在第一位一次。",
+    "durationMinutes": 1,
+    "energyValue": 22,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "成就感"
+    ]
+  },
+  {
+    "title": "清理过期的待办事项",
+    "description": "把那些“以后可能会看”但其实再也没看过的东西删掉。承认自己看不完，也是一种解脱。",
+    "durationMinutes": 4,
+    "energyValue": 16,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "清理下载文件夹",
+    "description": "把那些“以后可能会看”但其实再也没看过的东西删掉。承认自己看不完，也是一种解脱。",
+    "durationMinutes": 4,
+    "energyValue": 18,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "计划一件今晚等娃睡了只属于自己的电影",
+    "description": "不要总是围着家庭转，把自己的需求放在第一位一次。",
+    "durationMinutes": 3,
+    "energyValue": 23,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "成就感"
+    ]
+  },
+  {
+    "title": "预定明天的一束鲜花",
+    "description": "用一点小小的物质奖励，犒劳辛苦工作的自己。给明天留一个具体的期待。",
+    "durationMinutes": 1,
+    "energyValue": 15,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "去楼下便利店做伸个懒腰",
+    "description": "离开工位，物理上的转移能带来心理上的切换。把注意力放在自己的身体感受上。",
+    "durationMinutes": 4,
+    "energyValue": 25,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "翻看孩子满月时的照片",
+    "description": "在相册里搜索回忆。看看那个小小的生命，找回最初的感动和力量。",
+    "durationMinutes": 2,
+    "energyValue": 24,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "躲在车里 听一首喜欢的歌",
+    "description": "给自己争取一点绝对的独处时间。把门外的喧闹关掉，现在你只是你自己。",
+    "durationMinutes": 2,
+    "energyValue": 21,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "独处",
+      "工作间隙"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "安静"
+    ]
+  },
+  {
+    "title": "关闭工作群的弹窗",
+    "description": "夺回注意力的控制权。世界不会因为你晚回了几分钟消息而崩塌。",
+    "durationMinutes": 2,
+    "energyValue": 24,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "安静"
+    ]
+  },
+  {
+    "title": "给另一半发一个搞笑视频",
+    "description": "在柴米油盐和带娃的兵荒马乱中，找回一点属于两个人的连接。",
+    "durationMinutes": 3,
+    "energyValue": 24,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前",
+      "工作间隙"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "盯着自己的手心发呆 2分钟",
+    "description": "允许自己大脑完全空白。什么都不想，只是单纯地“存在”一会儿。",
+    "durationMinutes": 4,
+    "energyValue": 12,
+    "targetAudience": [
+      "资深打工人",
+      "年轻父母"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "预定明天的健康午餐",
+    "description": "用一点小小的物质奖励，犒劳辛苦工作的自己。给明天留一个具体的期待。",
+    "durationMinutes": 4,
+    "energyValue": 25,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "计划这个周末的一次周边游",
+    "description": "给自己设定一个小小的盼头。有了期待，当下的枯燥也会变得容易忍受一些。",
+    "durationMinutes": 3,
+    "energyValue": 14,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "计划一件下周只属于自己的电影",
+    "description": "不要总是围着家庭转，把自己的需求放在第一位一次。",
+    "durationMinutes": 3,
+    "energyValue": 21,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "成就感"
+    ]
+  },
+  {
+    "title": "预定明天的一杯冰美式",
+    "description": "用一点小小的物质奖励，犒劳辛苦工作的自己。给明天留一个具体的期待。",
+    "durationMinutes": 3,
+    "energyValue": 22,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "躲在阳台 深呼吸3次",
+    "description": "给自己争取一点绝对的独处时间。把门外的喧闹关掉，现在你只是你自己。",
+    "durationMinutes": 2,
+    "energyValue": 12,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "独处",
+      "工作间隙"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "安静"
+    ]
+  },
+  {
+    "title": "给老乡发一句最近怎么样",
+    "description": "打开微信，找到那个躺在列表里的人，发一句简单的问候。不需要长篇大论，一句话就能建立一次温暖的连接。",
+    "durationMinutes": 3,
+    "energyValue": 18,
+    "targetAudience": [
+      "大学生",
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通用"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "怀旧",
+      "治愈",
+      "活跃"
+    ]
+  },
+  {
+    "title": "回想今天最有成就感的一件事",
+    "description": "关掉屏幕，闭上眼睛复盘一下。哪怕只是“今天外卖送得很准时”也可以。",
+    "durationMinutes": 3,
+    "energyValue": 20,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤",
+      "独处"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "治愈"
+    ]
+  },
+  {
+    "title": "盯着窗外的云发呆 1分钟",
+    "description": "允许自己大脑完全空白。什么都不想，只是单纯地“存在”一会儿。",
+    "durationMinutes": 2,
+    "energyValue": 19,
+    "targetAudience": [
+      "资深打工人",
+      "年轻父母"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "写下关于人际关系的三个担忧",
+    "description": "打开备忘录，把脑子里乱糟糟的想法写下来。写出来，它就不再是一团迷雾了。",
+    "durationMinutes": 3,
+    "energyValue": 19,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "创作表达",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "给另一半发一句“辛苦了”",
+    "description": "在柴米油盐和带娃的兵荒马乱中，找回一点属于两个人的连接。",
+    "durationMinutes": 1,
+    "energyValue": 18,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前",
+      "工作间隙"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "回想今天最有成就感的一句话",
+    "description": "关掉屏幕，闭上眼睛复盘一下。哪怕只是“今天外卖送得很准时”也可以。",
+    "durationMinutes": 3,
+    "energyValue": 15,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤",
+      "独处"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "治愈"
+    ]
+  },
+  {
+    "title": "感受椅子的支撑力 2分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 3,
+    "energyValue": 14,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "整理电脑桌面",
+    "description": "花几分钟时间，把杂乱的信息归类。物理或数字空间的秩序感，能极大缓解内心的焦虑。",
+    "durationMinutes": 3,
+    "energyValue": 15,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "翻看孩子最搞笑瞬间的照片",
+    "description": "在相册里搜索回忆。看看那个小小的生命，找回最初的感动和力量。",
+    "durationMinutes": 3,
+    "energyValue": 18,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "翻看孩子刚出生时的照片",
+    "description": "在相册里搜索回忆。看看那个小小的生命，找回最初的感动和力量。",
+    "durationMinutes": 2,
+    "energyValue": 20,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "揉压眼睛 30秒",
+    "description": "放下手机，闭上眼睛，用双手感受肌肉的紧绷，然后慢慢让它放松下来。",
+    "durationMinutes": 2,
+    "energyValue": 16,
+    "targetAudience": [
+      "资深打工人",
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "回想今天最顺利的一个细节",
+    "description": "关掉屏幕，闭上眼睛复盘一下。哪怕只是“今天外卖送得很准时”也可以。",
+    "durationMinutes": 4,
+    "energyValue": 12,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤",
+      "独处"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "治愈"
+    ]
+  },
+  {
+    "title": "深呼吸 2分钟",
+    "description": "把注意力从屏幕转移到身体上。感受肌肉的拉伸和血液的流动。",
+    "durationMinutes": 3,
+    "energyValue": 11,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前",
+      "通用"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "预定明天的一束鲜花",
+    "description": "用一点小小的物质奖励，犒劳辛苦工作的自己。给明天留一个具体的期待。",
+    "durationMinutes": 1,
+    "energyValue": 11,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "扔掉写废的草稿纸",
+    "description": "物理空间的清理能带来立竿见影的爽快感。动动手，马上就能看到改变。",
+    "durationMinutes": 4,
+    "energyValue": 20,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "活动脚踝 2分钟",
+    "description": "把注意力从屏幕转移到身体上。感受肌肉的拉伸和血液的流动。",
+    "durationMinutes": 2,
+    "energyValue": 10,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前",
+      "通用"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "盯着桌上的绿植发呆 2分钟",
+    "description": "允许自己大脑完全空白。什么都不想，只是单纯地“存在”一会儿。",
+    "durationMinutes": 1,
+    "energyValue": 13,
+    "targetAudience": [
+      "资深打工人",
+      "年轻父母"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "回想今天最有成就感的一个瞬间",
+    "description": "关掉屏幕，闭上眼睛复盘一下。哪怕只是“今天外卖送得很准时”也可以。",
+    "durationMinutes": 2,
+    "energyValue": 13,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤",
+      "独处"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "治愈"
+    ]
+  },
+  {
+    "title": "整理错题本",
+    "description": "花几分钟时间，把杂乱的信息归类。物理或数字空间的秩序感，能极大缓解内心的焦虑。",
+    "durationMinutes": 2,
+    "energyValue": 21,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "计划考完试后的一场电影",
+    "description": "给自己设定一个小小的盼头。有了期待，当下的枯燥也会变得容易忍受一些。",
+    "durationMinutes": 3,
+    "energyValue": 18,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "给带你的前辈发一句辛苦了",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 1,
+    "energyValue": 18,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "感受自己的呼吸 1分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 2,
+    "energyValue": 17,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "去楼下便利店做伸个懒腰",
+    "description": "离开工位，物理上的转移能带来心理上的切换。把注意力放在自己的身体感受上。",
+    "durationMinutes": 3,
+    "energyValue": 19,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "预定明天的丰盛早餐",
+    "description": "用一点小小的物质奖励，犒劳辛苦工作的自己。给明天留一个具体的期待。",
+    "durationMinutes": 4,
+    "energyValue": 18,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "删掉重复的照片",
+    "description": "数字极简主义。清理掉无用的信息垃圾，手机和大脑都会变得更轻盈。",
+    "durationMinutes": 2,
+    "energyValue": 12,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "通用"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "去窗边做伸个懒腰",
+    "description": "离开工位，物理上的转移能带来心理上的切换。把注意力放在自己的身体感受上。",
+    "durationMinutes": 2,
+    "energyValue": 25,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "躲在卧室 闭眼休息1分钟",
+    "description": "给自己争取一点绝对的独处时间。把门外的喧闹关掉，现在你只是你自己。",
+    "durationMinutes": 4,
+    "energyValue": 13,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "独处",
+      "工作间隙"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "安静"
+    ]
+  },
+  {
+    "title": "闭眼休息 2分钟",
+    "description": "把注意力从屏幕转移到身体上。感受肌肉的拉伸和血液的流动。",
+    "durationMinutes": 3,
+    "energyValue": 11,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前",
+      "通用"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "去楼梯间做喝一杯温水",
+    "description": "离开工位，物理上的转移能带来心理上的切换。把注意力放在自己的身体感受上。",
+    "durationMinutes": 3,
+    "energyValue": 15,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "整理电脑桌面",
+    "description": "花几分钟时间，把杂乱的信息归类。物理或数字空间的秩序感，能极大缓解内心的焦虑。",
+    "durationMinutes": 2,
+    "energyValue": 10,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "感受周围环境的声音 1分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 2,
+    "energyValue": 17,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "删掉3个无用群聊",
+    "description": "数字极简主义。清理掉无用的信息垃圾，手机和大脑都会变得更轻盈。",
+    "durationMinutes": 2,
+    "energyValue": 23,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "通用"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "翻看孩子第一次走路的照片",
+    "description": "在相册里搜索回忆。看看那个小小的生命，找回最初的感动和力量。",
+    "durationMinutes": 4,
+    "energyValue": 22,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "给另一半发一个搞笑视频",
+    "description": "在柴米油盐和带娃的兵荒马乱中，找回一点属于两个人的连接。",
+    "durationMinutes": 2,
+    "energyValue": 24,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前",
+      "工作间隙"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "计划一件今晚等娃睡了只属于自己的购物",
+    "description": "不要总是围着家庭转，把自己的需求放在第一位一次。",
+    "durationMinutes": 4,
+    "energyValue": 10,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "成就感"
+    ]
+  },
+  {
+    "title": "整理电脑桌面",
+    "description": "花几分钟时间，把杂乱的信息归类。物理或数字空间的秩序感，能极大缓解内心的焦虑。",
+    "durationMinutes": 4,
+    "energyValue": 21,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "回想今天最有成就感的一个瞬间",
+    "description": "关掉屏幕，闭上眼睛复盘一下。哪怕只是“今天外卖送得很准时”也可以。",
+    "durationMinutes": 1,
+    "energyValue": 22,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤",
+      "独处"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "治愈"
+    ]
+  },
+  {
+    "title": "盯着水杯里的水发呆 1分钟",
+    "description": "允许自己大脑完全空白。什么都不想，只是单纯地“存在”一会儿。",
+    "durationMinutes": 2,
+    "energyValue": 19,
+    "targetAudience": [
+      "资深打工人",
+      "年轻父母"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "给前公司的HR发一句点赞",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 2,
+    "energyValue": 21,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "去窗边做发呆1分钟",
+    "description": "离开工位，物理上的转移能带来心理上的切换。把注意力放在自己的身体感受上。",
+    "durationMinutes": 3,
+    "energyValue": 11,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "翻看孩子最搞笑瞬间的照片",
+    "description": "在相册里搜索回忆。看看那个小小的生命，找回最初的感动和力量。",
+    "durationMinutes": 3,
+    "energyValue": 25,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "给帮忙的开发发一句周末愉快",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 2,
+    "energyValue": 21,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "躲在车里 什么都不做发呆",
+    "description": "给自己争取一点绝对的独处时间。把门外的喧闹关掉，现在你只是你自己。",
+    "durationMinutes": 2,
+    "energyValue": 15,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "独处",
+      "工作间隙"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "安静"
+    ]
+  },
+  {
+    "title": "清理邮件收件箱",
+    "description": "把那些“以后可能会看”但其实再也没看过的东西删掉。承认自己看不完，也是一种解脱。",
+    "durationMinutes": 3,
+    "energyValue": 14,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "清理飞书收藏",
+    "description": "把那些“以后可能会看”但其实再也没看过的东西删掉。承认自己看不完，也是一种解脱。",
+    "durationMinutes": 2,
+    "energyValue": 15,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "去茶水间做伸个懒腰",
+    "description": "离开工位，物理上的转移能带来心理上的切换。把注意力放在自己的身体感受上。",
+    "durationMinutes": 3,
+    "energyValue": 18,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "回想今天最无语的一个瞬间",
+    "description": "关掉屏幕，闭上眼睛复盘一下。哪怕只是“今天外卖送得很准时”也可以。",
+    "durationMinutes": 4,
+    "energyValue": 12,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤",
+      "独处"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "治愈"
+    ]
+  },
+  {
+    "title": "深呼吸 1分钟",
+    "description": "把注意力从屏幕转移到身体上。感受肌肉的拉伸和血液的流动。",
+    "durationMinutes": 4,
+    "energyValue": 10,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前",
+      "通用"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "翻看孩子第一次走路的照片",
+    "description": "在相册里搜索回忆。看看那个小小的生命，找回最初的感动和力量。",
+    "durationMinutes": 4,
+    "energyValue": 16,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "计划明天晚上的一顿大餐",
+    "description": "给自己设定一个小小的盼头。有了期待，当下的枯燥也会变得容易忍受一些。",
+    "durationMinutes": 2,
+    "energyValue": 24,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "扔掉没用的包装盒",
+    "description": "物理空间的清理能带来立竿见影的爽快感。动动手，马上就能看到改变。",
+    "durationMinutes": 2,
+    "energyValue": 24,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "回想今天最搞笑的一句话",
+    "description": "关掉屏幕，闭上眼睛复盘一下。哪怕只是“今天外卖送得很准时”也可以。",
+    "durationMinutes": 2,
+    "energyValue": 25,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤",
+      "独处"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "治愈"
+    ]
+  },
+  {
+    "title": "感受自己的呼吸 2分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 1,
+    "energyValue": 12,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "计划下周的一顿大餐",
+    "description": "给自己设定一个小小的盼头。有了期待，当下的枯燥也会变得容易忍受一些。",
+    "durationMinutes": 3,
+    "energyValue": 18,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "给帮忙的开发发一句周末愉快",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 2,
+    "energyValue": 16,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "感受手心的温度 1分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 1,
+    "energyValue": 18,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "去窗边做伸个懒腰",
+    "description": "离开工位，物理上的转移能带来心理上的切换。把注意力放在自己的身体感受上。",
+    "durationMinutes": 4,
+    "energyValue": 20,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "给另一半发一个爱心表情",
+    "description": "在柴米油盐和带娃的兵荒马乱中，找回一点属于两个人的连接。",
+    "durationMinutes": 2,
+    "energyValue": 10,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前",
+      "工作间隙"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "去楼下便利店做3次深呼吸",
+    "description": "离开工位，物理上的转移能带来心理上的切换。把注意力放在自己的身体感受上。",
+    "durationMinutes": 4,
+    "energyValue": 13,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "预定明天的一杯冰美式",
+    "description": "用一点小小的物质奖励，犒劳辛苦工作的自己。给明天留一个具体的期待。",
+    "durationMinutes": 4,
+    "energyValue": 18,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "翻看孩子刚出生时的照片",
+    "description": "在相册里搜索回忆。看看那个小小的生命，找回最初的感动和力量。",
+    "durationMinutes": 4,
+    "energyValue": 21,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "计划一件这个周末只属于自己的小事",
+    "description": "不要总是围着家庭转，把自己的需求放在第一位一次。",
+    "durationMinutes": 1,
+    "energyValue": 20,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "成就感"
+    ]
+  },
+  {
+    "title": "感受手心的温度 1分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 2,
+    "energyValue": 24,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "写下关于社团活动的最坏的打算",
+    "description": "打开备忘录，把脑子里乱糟糟的想法写下来。写出来，它就不再是一团迷雾了。",
+    "durationMinutes": 1,
+    "energyValue": 17,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "创作表达",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "给另一半发一张以前的合照",
+    "description": "在柴米油盐和带娃的兵荒马乱中，找回一点属于两个人的连接。",
+    "durationMinutes": 3,
+    "energyValue": 18,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前",
+      "工作间隙"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "给帮忙的开发发一句点赞",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 2,
+    "energyValue": 14,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "给同期入职的同事发一句辛苦了",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 4,
+    "energyValue": 19,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "回想今天最搞笑的一件事",
+    "description": "关掉屏幕，闭上眼睛复盘一下。哪怕只是“今天外卖送得很准时”也可以。",
+    "durationMinutes": 4,
+    "energyValue": 17,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤",
+      "独处"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "治愈"
+    ]
+  },
+  {
+    "title": "整理错题本",
+    "description": "花几分钟时间，把杂乱的信息归类。物理或数字空间的秩序感，能极大缓解内心的焦虑。",
+    "durationMinutes": 1,
+    "energyValue": 17,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "回想今天最有成就感的一个瞬间",
+    "description": "关掉屏幕，闭上眼睛复盘一下。哪怕只是“今天外卖送得很准时”也可以。",
+    "durationMinutes": 3,
+    "energyValue": 16,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤",
+      "独处"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "治愈"
+    ]
+  },
+  {
+    "title": "给帮忙的开发发一句辛苦了",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 3,
+    "energyValue": 17,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "计划明天晚上的一顿大餐",
+    "description": "给自己设定一个小小的盼头。有了期待，当下的枯燥也会变得容易忍受一些。",
+    "durationMinutes": 2,
+    "energyValue": 24,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "回想今天最搞笑的一个细节",
+    "description": "关掉屏幕，闭上眼睛复盘一下。哪怕只是“今天外卖送得很准时”也可以。",
+    "durationMinutes": 3,
+    "energyValue": 12,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤",
+      "独处"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "治愈"
+    ]
+  },
+  {
+    "title": "写下关于四六级的三个担忧",
+    "description": "打开备忘录，把脑子里乱糟糟的想法写下来。写出来，它就不再是一团迷雾了。",
+    "durationMinutes": 4,
+    "energyValue": 12,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "创作表达",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "计划一件下周只属于自己的小事",
+    "description": "不要总是围着家庭转，把自己的需求放在第一位一次。",
+    "durationMinutes": 1,
+    "energyValue": 20,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "成就感"
+    ]
+  },
+  {
+    "title": "清理下载文件夹",
+    "description": "把那些“以后可能会看”但其实再也没看过的东西删掉。承认自己看不完，也是一种解脱。",
+    "durationMinutes": 4,
+    "energyValue": 20,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "清理过期的待办事项",
+    "description": "把那些“以后可能会看”但其实再也没看过的东西删掉。承认自己看不完，也是一种解脱。",
+    "durationMinutes": 3,
+    "energyValue": 10,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "感受周围环境的声音 2分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 3,
+    "energyValue": 22,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "关闭购物软件的红点提醒",
+    "description": "夺回注意力的控制权。世界不会因为你晚回了几分钟消息而崩塌。",
+    "durationMinutes": 1,
+    "energyValue": 22,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "安静"
+    ]
+  },
+  {
+    "title": "回想今天最有成就感的一句话",
+    "description": "关掉屏幕，闭上眼睛复盘一下。哪怕只是“今天外卖送得很准时”也可以。",
+    "durationMinutes": 4,
+    "energyValue": 12,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤",
+      "独处"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "治愈"
+    ]
+  },
+  {
+    "title": "清理飞书收藏",
+    "description": "把那些“以后可能会看”但其实再也没看过的东西删掉。承认自己看不完，也是一种解脱。",
+    "durationMinutes": 4,
+    "energyValue": 16,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "感受周围环境的声音 1分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 3,
+    "energyValue": 19,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "给社团学长发一句分享个搞笑视频",
+    "description": "打开微信，找到那个躺在列表里的人，发一句简单的问候。不需要长篇大论，一句话就能建立一次温暖的连接。",
+    "durationMinutes": 3,
+    "energyValue": 24,
+    "targetAudience": [
+      "大学生",
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通用"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "怀旧",
+      "治愈",
+      "活跃"
+    ]
+  },
+  {
+    "title": "整理专业课笔记",
+    "description": "花几分钟时间，把杂乱的信息归类。物理或数字空间的秩序感，能极大缓解内心的焦虑。",
+    "durationMinutes": 3,
+    "energyValue": 14,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "拉伸背部 3次",
+    "description": "把注意力从屏幕转移到身体上。感受肌肉的拉伸和血液的流动。",
+    "durationMinutes": 2,
+    "energyValue": 12,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前",
+      "通用"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "写下关于四六级的一句吐槽",
+    "description": "打开备忘录，把脑子里乱糟糟的想法写下来。写出来，它就不再是一团迷雾了。",
+    "durationMinutes": 1,
+    "energyValue": 17,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "创作表达",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "躲在车里 闭眼休息1分钟",
+    "description": "给自己争取一点绝对的独处时间。把门外的喧闹关掉，现在你只是你自己。",
+    "durationMinutes": 2,
+    "energyValue": 16,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "独处",
+      "工作间隙"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "安静"
+    ]
+  },
+  {
+    "title": "给社团学长发一句推荐一首歌",
+    "description": "打开微信，找到那个躺在列表里的人，发一句简单的问候。不需要长篇大论，一句话就能建立一次温暖的连接。",
+    "durationMinutes": 1,
+    "energyValue": 20,
+    "targetAudience": [
+      "大学生",
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通用"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "怀旧",
+      "治愈",
+      "活跃"
+    ]
+  },
+  {
+    "title": "清理下载文件夹",
+    "description": "把那些“以后可能会看”但其实再也没看过的东西删掉。承认自己看不完，也是一种解脱。",
+    "durationMinutes": 3,
+    "energyValue": 24,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "盯着窗外的云发呆 3分钟",
+    "description": "允许自己大脑完全空白。什么都不想，只是单纯地“存在”一会儿。",
+    "durationMinutes": 1,
+    "energyValue": 16,
+    "targetAudience": [
+      "资深打工人",
+      "年轻父母"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "给同期入职的同事发一句辛苦了",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 4,
+    "energyValue": 23,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "盯着窗外的云发呆 2分钟",
+    "description": "允许自己大脑完全空白。什么都不想，只是单纯地“存在”一会儿。",
+    "durationMinutes": 2,
+    "energyValue": 14,
+    "targetAudience": [
+      "资深打工人",
+      "年轻父母"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "计划一件这个周末只属于自己的小事",
+    "description": "不要总是围着家庭转，把自己的需求放在第一位一次。",
+    "durationMinutes": 4,
+    "energyValue": 10,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "成就感"
+    ]
+  },
+  {
+    "title": "预定明天的下午茶",
+    "description": "用一点小小的物质奖励，犒劳辛苦工作的自己。给明天留一个具体的期待。",
+    "durationMinutes": 2,
+    "energyValue": 16,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "预定明天的健康午餐",
+    "description": "用一点小小的物质奖励，犒劳辛苦工作的自己。给明天留一个具体的期待。",
+    "durationMinutes": 2,
+    "energyValue": 22,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "写下关于人际关系的一个小目标",
+    "description": "打开备忘录，把脑子里乱糟糟的想法写下来。写出来，它就不再是一团迷雾了。",
+    "durationMinutes": 1,
+    "energyValue": 19,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "创作表达",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "躲在卧室 闭眼休息1分钟",
+    "description": "给自己争取一点绝对的独处时间。把门外的喧闹关掉，现在你只是你自己。",
+    "durationMinutes": 4,
+    "energyValue": 20,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "独处",
+      "工作间隙"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "安静"
+    ]
+  },
+  {
+    "title": "写下关于四六级的最坏的打算",
+    "description": "打开备忘录，把脑子里乱糟糟的想法写下来。写出来，它就不再是一团迷雾了。",
+    "durationMinutes": 3,
+    "energyValue": 15,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "创作表达",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "闭眼休息 5次",
+    "description": "把注意力从屏幕转移到身体上。感受肌肉的拉伸和血液的流动。",
+    "durationMinutes": 1,
+    "energyValue": 13,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前",
+      "通用"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "盯着远处的建筑发呆 2分钟",
+    "description": "允许自己大脑完全空白。什么都不想，只是单纯地“存在”一会儿。",
+    "durationMinutes": 3,
+    "energyValue": 13,
+    "targetAudience": [
+      "资深打工人",
+      "年轻父母"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "写下关于人际关系的一个小目标",
+    "description": "打开备忘录，把脑子里乱糟糟的想法写下来。写出来，它就不再是一团迷雾了。",
+    "durationMinutes": 1,
+    "energyValue": 21,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "创作表达",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "躲在厨房 闭眼休息1分钟",
+    "description": "给自己争取一点绝对的独处时间。把门外的喧闹关掉，现在你只是你自己。",
+    "durationMinutes": 4,
+    "energyValue": 25,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "独处",
+      "工作间隙"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "安静"
+    ]
+  },
+  {
+    "title": "计划一件下周只属于自己的电影",
+    "description": "不要总是围着家庭转，把自己的需求放在第一位一次。",
+    "durationMinutes": 2,
+    "energyValue": 23,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "成就感"
+    ]
+  },
+  {
+    "title": "写下关于四六级的三个担忧",
+    "description": "打开备忘录，把脑子里乱糟糟的想法写下来。写出来，它就不再是一团迷雾了。",
+    "durationMinutes": 1,
+    "energyValue": 18,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "创作表达",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "感受自己的呼吸 2分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 4,
+    "energyValue": 23,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "盯着窗外的云发呆 3分钟",
+    "description": "允许自己大脑完全空白。什么都不想，只是单纯地“存在”一会儿。",
+    "durationMinutes": 1,
+    "energyValue": 14,
+    "targetAudience": [
+      "资深打工人",
+      "年轻父母"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "写下关于未来就业的一个小目标",
+    "description": "打开备忘录，把脑子里乱糟糟的想法写下来。写出来，它就不再是一团迷雾了。",
+    "durationMinutes": 1,
+    "energyValue": 15,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "创作表达",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "回想今天最有成就感的一句话",
+    "description": "关掉屏幕，闭上眼睛复盘一下。哪怕只是“今天外卖送得很准时”也可以。",
+    "durationMinutes": 3,
+    "energyValue": 13,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤",
+      "独处"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "治愈"
+    ]
+  },
+  {
+    "title": "给同期入职的同事发一句点赞",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 2,
+    "energyValue": 22,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "清理飞书收藏",
+    "description": "把那些“以后可能会看”但其实再也没看过的东西删掉。承认自己看不完，也是一种解脱。",
+    "durationMinutes": 4,
+    "energyValue": 13,
+    "targetAudience": [
+      "职场新人",
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "揉压手腕 2分钟",
+    "description": "放下手机，闭上眼睛，用双手感受肌肉的紧绷，然后慢慢让它放松下来。",
+    "durationMinutes": 2,
+    "energyValue": 24,
+    "targetAudience": [
+      "资深打工人",
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "写下关于人际关系的三个担忧",
+    "description": "打开备忘录，把脑子里乱糟糟的想法写下来。写出来，它就不再是一团迷雾了。",
+    "durationMinutes": 2,
+    "energyValue": 15,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "创作表达",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "扔掉写废的草稿纸",
+    "description": "物理空间的清理能带来立竿见影的爽快感。动动手，马上就能看到改变。",
+    "durationMinutes": 1,
+    "energyValue": 12,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "回想今天最有成就感的一个瞬间",
+    "description": "关掉屏幕，闭上眼睛复盘一下。哪怕只是“今天外卖送得很准时”也可以。",
+    "durationMinutes": 2,
+    "energyValue": 13,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤",
+      "独处"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "治愈"
+    ]
+  },
+  {
+    "title": "揉压太阳穴 30秒",
+    "description": "放下手机，闭上眼睛，用双手感受肌肉的紧绷，然后慢慢让它放松下来。",
+    "durationMinutes": 1,
+    "energyValue": 25,
+    "targetAudience": [
+      "资深打工人",
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "计划明天晚上的一顿大餐",
+    "description": "给自己设定一个小小的盼头。有了期待，当下的枯燥也会变得容易忍受一些。",
+    "durationMinutes": 2,
+    "energyValue": 10,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "感受椅子的支撑力 2分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 1,
+    "energyValue": 13,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "给另一半发一张以前的合照",
+    "description": "在柴米油盐和带娃的兵荒马乱中，找回一点属于两个人的连接。",
+    "durationMinutes": 1,
+    "energyValue": 18,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前",
+      "工作间隙"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "揉压太阳穴 1分钟",
+    "description": "放下手机，闭上眼睛，用双手感受肌肉的紧绷，然后慢慢让它放松下来。",
+    "durationMinutes": 1,
+    "energyValue": 18,
+    "targetAudience": [
+      "资深打工人",
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "躲在阳台 什么都不做发呆",
+    "description": "给自己争取一点绝对的独处时间。把门外的喧闹关掉，现在你只是你自己。",
+    "durationMinutes": 1,
+    "energyValue": 22,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "独处",
+      "工作间隙"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "安静"
+    ]
+  },
+  {
+    "title": "预定明天的一束鲜花",
+    "description": "用一点小小的物质奖励，犒劳辛苦工作的自己。给明天留一个具体的期待。",
+    "durationMinutes": 1,
+    "energyValue": 14,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "计划考完试后的一顿大餐",
+    "description": "给自己设定一个小小的盼头。有了期待，当下的枯燥也会变得容易忍受一些。",
+    "durationMinutes": 4,
+    "energyValue": 23,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "整理电脑桌面",
+    "description": "花几分钟时间，把杂乱的信息归类。物理或数字空间的秩序感，能极大缓解内心的焦虑。",
+    "durationMinutes": 4,
+    "energyValue": 16,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "揉压肩膀 1分钟",
+    "description": "放下手机，闭上眼睛，用双手感受肌肉的紧绷，然后慢慢让它放松下来。",
+    "durationMinutes": 3,
+    "energyValue": 18,
+    "targetAudience": [
+      "资深打工人",
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "给带你的前辈发一句感谢",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 1,
+    "energyValue": 23,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "翻看孩子第一次走路的照片",
+    "description": "在相册里搜索回忆。看看那个小小的生命，找回最初的感动和力量。",
+    "durationMinutes": 2,
+    "energyValue": 15,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "计划考完试后的一次懒觉",
+    "description": "给自己设定一个小小的盼头。有了期待，当下的枯燥也会变得容易忍受一些。",
+    "durationMinutes": 4,
+    "energyValue": 23,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "闭眼休息 2分钟",
+    "description": "把注意力从屏幕转移到身体上。感受肌肉的拉伸和血液的流动。",
+    "durationMinutes": 1,
+    "energyValue": 19,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前",
+      "通用"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "预定明天的健康午餐",
+    "description": "用一点小小的物质奖励，犒劳辛苦工作的自己。给明天留一个具体的期待。",
+    "durationMinutes": 4,
+    "energyValue": 18,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "给帮忙的开发发一句感谢",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 1,
+    "energyValue": 10,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "给辅导员发一句推荐一首歌",
+    "description": "打开微信，找到那个躺在列表里的人，发一句简单的问候。不需要长篇大论，一句话就能建立一次温暖的连接。",
+    "durationMinutes": 3,
+    "energyValue": 21,
+    "targetAudience": [
+      "大学生",
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通用"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "怀旧",
+      "治愈",
+      "活跃"
+    ]
+  },
+  {
+    "title": "删掉重复的照片",
+    "description": "数字极简主义。清理掉无用的信息垃圾，手机和大脑都会变得更轻盈。",
+    "durationMinutes": 1,
+    "energyValue": 21,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "通勤",
+      "排队等待",
+      "通用"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "感受自己的呼吸 2分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 4,
+    "energyValue": 25,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "躲在车里 什么都不做发呆",
+    "description": "给自己争取一点绝对的独处时间。把门外的喧闹关掉，现在你只是你自己。",
+    "durationMinutes": 4,
+    "energyValue": 25,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "独处",
+      "工作间隙"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "安静"
+    ]
+  },
+  {
+    "title": "扔掉过期的票据",
+    "description": "物理空间的清理能带来立竿见影的爽快感。动动手，马上就能看到改变。",
+    "durationMinutes": 2,
+    "energyValue": 16,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "盯着远处的建筑发呆 3分钟",
+    "description": "允许自己大脑完全空白。什么都不想，只是单纯地“存在”一会儿。",
+    "durationMinutes": 4,
+    "energyValue": 16,
+    "targetAudience": [
+      "资深打工人",
+      "年轻父母"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "给另一半发一张以前的合照",
+    "description": "在柴米油盐和带娃的兵荒马乱中，找回一点属于两个人的连接。",
+    "durationMinutes": 4,
+    "energyValue": 24,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前",
+      "工作间隙"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "回想今天最有成就感的一件事",
+    "description": "关掉屏幕，闭上眼睛复盘一下。哪怕只是“今天外卖送得很准时”也可以。",
+    "durationMinutes": 3,
+    "energyValue": 20,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤",
+      "独处"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "治愈"
+    ]
+  },
+  {
+    "title": "写下关于未来就业的一句吐槽",
+    "description": "打开备忘录，把脑子里乱糟糟的想法写下来。写出来，它就不再是一团迷雾了。",
+    "durationMinutes": 1,
+    "energyValue": 22,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "创作表达",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "预定明天的丰盛早餐",
+    "description": "用一点小小的物质奖励，犒劳辛苦工作的自己。给明天留一个具体的期待。",
+    "durationMinutes": 3,
+    "energyValue": 16,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "睡前",
+      "通勤"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "活跃"
+    ]
+  },
+  {
+    "title": "给帮忙的开发发一句感谢",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 1,
+    "energyValue": 16,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "揉压眼睛 1分钟",
+    "description": "放下手机，闭上眼睛，用双手感受肌肉的紧绷，然后慢慢让它放松下来。",
+    "durationMinutes": 1,
+    "energyValue": 18,
+    "targetAudience": [
+      "资深打工人",
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "治愈"
+    ]
+  },
+  {
+    "title": "关闭不重要的闲聊群的消息通知",
+    "description": "夺回注意力的控制权。世界不会因为你晚回了几分钟消息而崩塌。",
+    "durationMinutes": 4,
+    "energyValue": 10,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "安静"
+    ]
+  },
+  {
+    "title": "感受周围环境的声音 1分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 3,
+    "energyValue": 13,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "关闭工作群的消息通知",
+    "description": "夺回注意力的控制权。世界不会因为你晚回了几分钟消息而崩塌。",
+    "durationMinutes": 3,
+    "energyValue": 21,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "安静"
+    ]
+  },
+  {
+    "title": "躲在卧室 深呼吸3次",
+    "description": "给自己争取一点绝对的独处时间。把门外的喧闹关掉，现在你只是你自己。",
+    "durationMinutes": 1,
+    "energyValue": 19,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "独处",
+      "工作间隙"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "平静下来",
+      "安静"
+    ]
+  },
+  {
+    "title": "盯着远处的建筑发呆 3分钟",
+    "description": "允许自己大脑完全空白。什么都不想，只是单纯地“存在”一会儿。",
+    "durationMinutes": 3,
+    "energyValue": 22,
+    "targetAudience": [
+      "资深打工人",
+      "年轻父母"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "感受椅子的支撑力 1分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 3,
+    "energyValue": 24,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "写下关于期末考试的三个担忧",
+    "description": "打开备忘录，把脑子里乱糟糟的想法写下来。写出来，它就不再是一团迷雾了。",
+    "durationMinutes": 4,
+    "energyValue": 12,
+    "targetAudience": [
+      "大学生"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "创作表达",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "拉伸背部 1分钟",
+    "description": "把注意力从屏幕转移到身体上。感受肌肉的拉伸和血液的流动。",
+    "durationMinutes": 3,
+    "energyValue": 12,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "工作间隙",
+      "睡前",
+      "通用"
+    ],
+    "category": "治愈放松",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "计划一件明天中午只属于自己的小事",
+    "description": "不要总是围着家庭转，把自己的需求放在第一位一次。",
+    "durationMinutes": 4,
+    "energyValue": 15,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前"
+    ],
+    "category": "找点乐子",
+    "vibes": [
+      "新鲜感",
+      "成就感"
+    ]
+  },
+  {
+    "title": "感受自己的呼吸 1分钟",
+    "description": "正念练习。不评判，不思考，只是单纯地觉察当下的这一刻。",
+    "durationMinutes": 4,
+    "energyValue": 18,
+    "targetAudience": [
+      "通用"
+    ],
+    "scenes": [
+      "睡前",
+      "独处",
+      "通勤"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "安静",
+      "平静下来"
+    ]
+  },
+  {
+    "title": "给前公司的HR发一句周末愉快",
+    "description": "职场不只有KPI，还有人情味。一句简单的肯定，能让彼此的一天都亮起来。",
+    "durationMinutes": 4,
+    "energyValue": 23,
+    "targetAudience": [
+      "职场新人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "通勤"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "成就感"
+    ]
+  },
+  {
+    "title": "给另一半发一个搞笑视频",
+    "description": "在柴米油盐和带娃的兵荒马乱中，找回一点属于两个人的连接。",
+    "durationMinutes": 4,
+    "energyValue": 25,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "通勤",
+      "睡前",
+      "工作间隙"
+    ],
+    "category": "社交连接",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "翻看孩子一岁生日的照片",
+    "description": "在相册里搜索回忆。看看那个小小的生命，找回最初的感动和力量。",
+    "durationMinutes": 3,
+    "energyValue": 23,
+    "targetAudience": [
+      "年轻父母"
+    ],
+    "scenes": [
+      "睡前",
+      "独处"
+    ],
+    "category": "感官体验",
+    "vibes": [
+      "治愈",
+      "怀旧"
+    ]
+  },
+  {
+    "title": "关闭朋友圈的红点提醒",
+    "description": "夺回注意力的控制权。世界不会因为你晚回了几分钟消息而崩塌。",
+    "durationMinutes": 1,
+    "energyValue": 10,
+    "targetAudience": [
+      "资深打工人"
+    ],
+    "scenes": [
+      "工作间隙",
+      "独处"
+    ],
+    "category": "整理收纳",
+    "vibes": [
+      "成就感",
+      "安静"
+    ]
+  }
+]

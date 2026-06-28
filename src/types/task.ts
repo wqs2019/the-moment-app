@@ -1,7 +1,7 @@
 export type TargetAudience = '大学生' | '职场新人' | '资深打工人' | '年轻父母' | '通用';
 export type TaskScene = '睡前' | '通勤' | '工作间隙' | '独处' | '排队等待' | '通用';
 export type TaskCategory = '轻学习' | '创作表达' | '社交连接' | '治愈放松' | '整理收纳' | '感官体验';
-export type TaskVibe = '安静' | '活跃' | '怀旧' | '新鲜感' | '治愈' | '成就感';
+export type TaskVibe = '安静' | '活跃' | '怀旧' | '新鲜感' | '治愈' | '成就感' | '平静下来' | '找点乐子';
 
 export interface Task {
   id: string;

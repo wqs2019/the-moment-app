@@ -4,12 +4,15 @@ import React from 'react';
 import MainTabsScreen from '../screens/tabs/MainTabsScreen';
 import { LoginScreen } from '../screens/auth/LoginScreen';
 import { OnboardingScreen } from '../screens/onboarding/OnboardingScreen';
+import { TaskExecutionScreen } from '../screens/execution/TaskExecutionScreen';
 import { useAppStore } from '../store/appStore';
+import { Task } from '../types/task';
 
 export type RootStackParamList = {
   MainTabs: undefined;
   Login: undefined;
   Onboarding: undefined;
+  TaskExecution: { task: Task };
 };
 
 const Stack = createNativeStackNavigator<RootStackParamList>();
@@ -37,13 +40,24 @@ export const RootNavigator = () => {
           }}
         />
       ) : (
-        <Stack.Screen
-          name="MainTabs"
-          component={MainTabsScreen}
-          options={{
-            headerShown: false,
-          }}
-        />
+        <Stack.Group>
+          <Stack.Screen
+            name="MainTabs"
+            component={MainTabsScreen}
+            options={{
+              headerShown: false,
+            }}
+          />
+          <Stack.Screen
+            name="TaskExecution"
+            component={TaskExecutionScreen}
+            options={{
+              headerShown: false,
+              presentation: 'fullScreenModal',
+              animation: 'slide_from_bottom'
+            }}
+          />
+        </Stack.Group>
       )}
     </Stack.Navigator>
   );
